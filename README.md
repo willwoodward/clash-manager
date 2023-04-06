@@ -1,5 +1,5 @@
 # Instructions for Use:
-- Open <link> in your browser
+- Open [Clash Manager](https://willwoodward.github.io/clash-manager/client/index.html) in your browser
 
 ### How to Update the Data:
 - Clone the repository and run npm install
