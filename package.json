@@ -1,0 +1,15 @@
+{
+  "name": "clashapi",
+  "version": "1.0.0",
+  "description": "Experimenting with the Clash of Clans API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Will Woodward",
+  "license": "ISC",
+  "dependencies": {
+    "convert-array-to-csv": "^2.0.0",
+    "csv-parser": "^3.0.0"
+  }
+}
