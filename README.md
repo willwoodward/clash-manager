@@ -12,6 +12,7 @@
 
 # To-do List:
 - Actually set up Vue properly
+- Make it so that I can read from a JSON file
 
 ### HTML:
 - Add a sidebar
