@@ -167,7 +167,6 @@ async function clanCapitalAttacks (playerObj, tag = '#29U8UJCUO') {
 }
 
 async function reloadRaidAttacks() {
-    // console.log(await listClanCapitalAttacks());
     let x = await loadRaidAttacksData();
     let y = await jsonToCSV(x);
 
@@ -179,7 +178,6 @@ async function reloadRaidAttacks() {
 async function loadRaidAttacksData() {
     const csvFilePath = './data/raidAttacks.csv';
     const json = await csvToJSON().fromFile(csvFilePath);
-    // const jsonString = JSON.stringify(json, null, 2);
     return json;
 }
 
@@ -284,6 +282,10 @@ async function appendRaidAttacksData() {
     let newData = await jsonToCSV(newJSON);
 
     fs.writeFile('data/raidAttacks.csv', newData, function (err) {
+        if (err) throw err;
+    });
+
+    fs.writeFile('data/raidAttacks.json', JSON.stringify(newJSON), function (err) {
         if (err) throw err;
     });
 }
