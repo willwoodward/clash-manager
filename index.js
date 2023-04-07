@@ -1,6 +1,8 @@
+const raidAttacks = require('./raidAttacks.json');
+
+const csvToJSON = require('csvtojson');
+
 const fs = require('fs');
-const csv = require('csv-parser');
-const { convertArrayToCSV } = require('convert-array-to-csv');
 
 const token = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJjNzQzM2M2Y2NhNSJ9.eyJpc3MiOiJzdXBlcmNlbGwiLCJhdWQiOiJzdXBlcmNlbGw6Z2FtZWFwaSIsImp0aSI6IjgyOWEzMTk3LTFlZWEtNDlhYi04ODIxLWU5ZjcyYTRhODQwMSIsImlhdCI6MTY4MDcwMDMwMywic3ViIjoiZGV2ZWxvcGVyL2Y0NzQ1NWFiLWZiNzctMDNmMy1jMThkLWRkYjE4MTU3NGYzOSIsInNjb3BlcyI6WyJjbGFzaCJdLCJsaW1pdHMiOlt7InRpZXIiOiJkZXZlbG9wZXIvc2lsdmVyIiwidHlwZSI6InRocm90dGxpbmcifSx7ImNpZHJzIjpbIjg4LjguMTkxLjExNyJdLCJ0eXBlIjoiY2xpZW50In1dfQ.fXbHxh-vUSFr-0fCSTKgH9EODGtosehyhVMiFnmSo_RH-brID-gC9zQmat6iJdbMqqIaoccZS3ZgWS_jhc7Mag';
 const url = 'https://api.clashofclans.com/v1/';
@@ -105,10 +107,11 @@ async function tests() {
 
 // ******************** CLAN CAPITAL ATTACKS AUTOMATION ********************
 class memberAttacks {
-    constructor(name, tag, totalAttacks) {
+    constructor(name, tag, totalAttacks, capitalGold) {
         this.name = name;
         this.tag = tag;
         this.totalAttacks = totalAttacks;
+        this.capitalGold = capitalGold;
     }
 }
 
@@ -127,7 +130,7 @@ async function listClanCapitalAttacks(tag = '#29U8UJCUO') {
         playersOutput.push(user);
     }
 
-    return JSON.stringify(playersOutput);
+    return playersOutput;
 }
 
 async function clanCapitalAttacks (playerObj, tag = '#29U8UJCUO') {
@@ -140,32 +143,139 @@ async function clanCapitalAttacks (playerObj, tag = '#29U8UJCUO') {
     const resJSON = await res.json();
 
     // Getting the useful parts of a player
-    let user = new memberAttacks(playerObj.name, playerObj.tag, 0);
+    let user = new memberAttacks(playerObj.name, playerObj.tag, 0, 0);
 
     for (const member of resJSON.items[0].members) {
         if (member.tag === user.tag) {
             user.totalAttacks += member.attacks
+            user.capitalGold += member.capitalResourcesLooted
         }
     }
 
     return user;
 }
 
-async function tests2() {
+async function reloadRaidAttacks() {
     // console.log(await listClanCapitalAttacks());
-    let x = await csvToJSON();
-    console.log(x);
-}
-tests2();
+    let x = await loadRaidAttacksData();
+    let y = await jsonToCSV(x);
 
-async function csvToJSON() {
-    results = [];
-    fs.createReadStream('Clan Info/raidAttacks.csv')
-      .pipe(csv())
-      .on('data', (data) => {
-        results.push(data)
-      })
-      .on('end', () => {
-        return results;
-        });
+    fs.writeFile('data/raidAttacks.csv', y, function (err) {
+        if (err) throw err;
+    });
 }
+
+async function loadRaidAttacksData() {
+    const csvFilePath = './data/raidAttacks.csv';
+    const json = await csvToJSON().fromFile(csvFilePath);
+    // const jsonString = JSON.stringify(json, null, 2);
+    return json;
+}
+
+async function jsonToCSV(data) {
+    // From StackOverflow: https://stackoverflow.com/questions/8847766/how-to-convert-json-to-csv-format-and-store-in-a-variable [Accessed 06/04/2023]
+    const items = data;
+    const replacer = (key, value) => {
+        // Define what to do with empty values here
+        return (key, value);
+    }
+    const header = Object.keys(items[0])
+    header[4] = ''
+    const csv = [
+    header.join(','), // header row first
+    ...items.map(row => header.map(fieldName => JSON.stringify(row[fieldName], replacer)).join(','))
+    ].join('\r\n')
+
+    return csv;
+}
+
+async function appendRaidAttacksData() {
+    // Load current JSON data
+    const csvFilePath = './data/raidAttacks.csv';
+    const currentJSON = await csvToJSON().fromFile(csvFilePath);
+    // console.log(currentJSON);
+
+    // Load the current week's JSON
+    const recentJSON = await listClanCapitalAttacks();
+    
+    let ranAlready = true;
+    // Add a new date column to currentJSON
+    if (currentJSON[0].Date === undefined) {
+        ranAlready = false;
+        for (const row of currentJSON) {
+            row.Date = '';
+        }
+    }
+    if (currentJSON[0].DateGold === undefined) {
+        ranAlready = false;
+        for (const row of currentJSON) {
+            row.DateGold = '';
+        }
+    }
+
+    // Go through recentJSON, and add attacks and gold to each array
+    let newJSON = [];
+    for (const raidStat of recentJSON) {
+        // Search the current clan members for the tag
+        let match = currentJSON.filter((e) => {
+            return e.Tag === raidStat.tag;
+        });
+
+        // console.log(match);
+
+        let newUserData;
+
+        // If there are no clan members with this tag, add a row
+        if (match.length === 0) {
+            newUserData = {...currentJSON[0]};
+            for (key in newUserData) {
+                newUserData[key] = '';
+            }
+
+            newUserData.Username = raidStat.name;
+            newUserData.Tag = raidStat.tag;
+
+            newUserData.Attacks = Number(raidStat.totalAttacks);
+            newUserData.Gold = Number(raidStat.capitalGold);
+
+            newUserData.Date = Number(raidStat.totalAttacks);
+            newUserData.DateGold = Number(raidStat.capitalGold);
+        }
+
+        // If the clan member is already in the spreadsheet
+        else {
+            newUserData = {...match[0]};
+
+            if (ranAlready) {
+                // Update information
+                const prevAttacks = Number(newUserData.Date);
+                const prevGold = Number(newUserData.DateGold);
+
+                // Should fix so it calculates the lifetime total for robustness
+                newUserData.Attacks = Number(newUserData.Attacks) - prevAttacks + Number(raidStat.totalAttacks);
+                newUserData.Gold = Number(newUserData.Gold) - prevGold + Number(raidStat.capitalGold);
+                newUserData.Date = Number(raidStat.totalAttacks);
+                newUserData.DateGold = Number(raidStat.capitalGold);
+            } else {
+                newUserData.Attacks = Number(newUserData.Attacks) + Number(raidStat.totalAttacks);
+                newUserData.Gold = Number(newUserData.Gold) + Number(raidStat.capitalGold);
+                newUserData.Date = Number(raidStat.totalAttacks);
+                newUserData.DateGold = Number(raidStat.capitalGold);
+            }
+        }
+
+        newJSON.push(newUserData);
+    }
+
+    // Add the newJSON to the spreadsheet
+    let newData = await jsonToCSV(newJSON);
+
+    fs.writeFile('data/raidAttacks.csv', newData, function (err) {
+        if (err) throw err;
+    });
+}
+
+async function test3() {
+    await appendRaidAttacksData();
+}
+test3();
