@@ -124,13 +124,17 @@ async function listClanCapitalAttacks(tag = '#29U8UJCUO') {
     const resJSON = await res.json();
     const members = resJSON.memberList;
 
+    let raidDate;
     let playersOutput = [];
     for (const member of members) {
-        const user = await clanCapitalAttacks(member, tag);
+        const info = await clanCapitalAttacks(member, tag);
+        const user = info.users;
+        raidDate = info.date;
         playersOutput.push(user);
     }
 
-    return playersOutput;
+
+    return { players: playersOutput, date: raidDate };
 }
 
 async function clanCapitalAttacks (playerObj, tag = '#29U8UJCUO') {
@@ -152,7 +156,14 @@ async function clanCapitalAttacks (playerObj, tag = '#29U8UJCUO') {
         }
     }
 
-    return user;
+    // Format the date
+    const loadDate = resJSON.items[0].endTime;
+    const day = loadDate.slice(6, 8);
+    const month = loadDate.slice(4, 6);
+    const year = loadDate.slice(0, 4);
+    const raidDate = `${day}/${month}/${year}`;
+
+    return { users: user, date: raidDate };
 }
 
 async function reloadRaidAttacks() {
@@ -196,20 +207,22 @@ async function appendRaidAttacksData() {
     // console.log(currentJSON);
 
     // Load the current week's JSON
-    const recentJSON = await listClanCapitalAttacks();
+    const capitalAttacks = await listClanCapitalAttacks();
+    const recentJSON = capitalAttacks.players;
+    const date = capitalAttacks.date;
     
     let ranAlready = true;
     // Add a new date column to currentJSON
-    if (currentJSON[0].Date === undefined) {
+    if (currentJSON[0][`${date} Attacks`] === undefined) {
         ranAlready = false;
         for (const row of currentJSON) {
-            row.Date = '';
+            row[`${date} Attacks`] = '';
         }
     }
-    if (currentJSON[0].DateGold === undefined) {
+    if (currentJSON[0][`${date} Gold`] === undefined) {
         ranAlready = false;
         for (const row of currentJSON) {
-            row.DateGold = '';
+            row[`${date} Gold`] = '';
         }
     }
 
@@ -238,8 +251,8 @@ async function appendRaidAttacksData() {
             newUserData.Attacks = Number(raidStat.totalAttacks);
             newUserData.Gold = Number(raidStat.capitalGold);
 
-            newUserData.Date = Number(raidStat.totalAttacks);
-            newUserData.DateGold = Number(raidStat.capitalGold);
+            newUserData[`${date} Attacks`] = Number(raidStat.totalAttacks);
+            newUserData[`${date} Gold`] = Number(raidStat.capitalGold);
         }
 
         // If the clan member is already in the spreadsheet
@@ -248,19 +261,19 @@ async function appendRaidAttacksData() {
 
             if (ranAlready) {
                 // Update information
-                const prevAttacks = Number(newUserData.Date);
-                const prevGold = Number(newUserData.DateGold);
+                const prevAttacks = Number(newUserData[`${date} Attacks`]);
+                const prevGold = Number(newUserData[`${date} Gold`]);
 
                 // Should fix so it calculates the lifetime total for robustness
                 newUserData.Attacks = Number(newUserData.Attacks) - prevAttacks + Number(raidStat.totalAttacks);
                 newUserData.Gold = Number(newUserData.Gold) - prevGold + Number(raidStat.capitalGold);
-                newUserData.Date = Number(raidStat.totalAttacks);
-                newUserData.DateGold = Number(raidStat.capitalGold);
+                newUserData[`${date} Attacks`] = Number(raidStat.totalAttacks);
+                newUserData[`${date} Gold`] = Number(raidStat.capitalGold);
             } else {
                 newUserData.Attacks = Number(newUserData.Attacks) + Number(raidStat.totalAttacks);
                 newUserData.Gold = Number(newUserData.Gold) + Number(raidStat.capitalGold);
-                newUserData.Date = Number(raidStat.totalAttacks);
-                newUserData.DateGold = Number(raidStat.capitalGold);
+                newUserData[`${date} Attacks`] = Number(raidStat.totalAttacks);
+                newUserData[`${date} Gold`] = Number(raidStat.capitalGold);
             }
         }
 
