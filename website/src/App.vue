@@ -32,9 +32,12 @@ import HelloWorld from './components/HelloWorld.vue'
               </table>
         </div>
     </div>
+<infoCard heading="Header"/>
 </template>
 
 <script>
+  import infoCard from '@/components/infoCard.vue'
+
   import json from '../../data/raidAttacks.json'
   export default {
     name: 'HomeView',
@@ -44,6 +47,7 @@ import HelloWorld from './components/HelloWorld.vue'
       }
     },
     components: {
+      infoCard
     }
   }
 </script>
