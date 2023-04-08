@@ -18,3 +18,4 @@ jobs:
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_XANTHE_BB }}'
           channelId: live
           projectId: xanthe-bb
+          entryPoint: xanthe-bb
