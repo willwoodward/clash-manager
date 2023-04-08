@@ -1,4 +1,4 @@
-const raidAttacks = require('./raidAttacks.json');
+const raidAttacks = require('../raidAttacks.json');
 
 const csvToJSON = require('csvtojson');
 

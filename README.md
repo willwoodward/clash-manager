@@ -11,8 +11,7 @@
 - NodeJS for any back-end processes
 
 # To-do List:
-- Actually set up Vue properly
-- Make it so that I can read from a JSON file
+- Add Tailwind to my Vue project, may need to have created with Vite
 
 ### HTML:
 - Add a sidebar
