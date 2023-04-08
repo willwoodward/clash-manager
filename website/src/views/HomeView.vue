@@ -45,10 +45,3 @@ export default {
   }
 }
 </script>
-
-<style>
-  #capital-raids {
-    width: min-content;
-    margin: auto;
-  }
-</style>

@@ -1,30 +1,52 @@
+<script setup>
+import { RouterLink, RouterView } from 'vue-router'
+import HelloWorld from './components/HelloWorld.vue'
+</script>
+
 <template>
-  <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </nav>
-  <router-view/>
+    <div class="flex flex-row justify-end">
+        <div class="text-slate-900 dark:text-white">{{ icon }}</div>
+        <div class="text-slate-900 dark:text-white">{{ hamburger }}</div>
+        <div class="text-slate-900 dark:text-white">{{ settings }}</div>
+      </div>
+    
+    <div class="bg-white dark:bg-slate-800 rounded-lg px-6 py-8 ring-1 ring-slate-900/5 shadow-xl" id="capital-raids">
+        <h3 class="text-slate-900 dark:text-white mt-5 text-base font-medium tracking-tight">Capital Raid Data</h3>
+        <p class="text-slate-500 dark:text-slate-400 mt-2 text-sm">This table shows the clan's capital attacks.</p>
+        <div id="app">
+            <table class="table-auto dark:text-slate-200">
+                <thead>
+                  <tr>
+                    <th>Username</th>
+                    <th>Tag</th>
+                    <th>Attacks</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr v-for="data in capitalRaids" :key="data.Tag">
+                    <td>{{ data.Username }}</td>
+                    <td>{{ data.Tag }}</td>
+                    <td>{{ data.Attacks }}</td>
+                  </tr>
+                </tbody>
+              </table>
+        </div>
+    </div>
 </template>
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
+<script>
+  import json from '../../data/raidAttacks.json'
+  export default {
+    name: 'HomeView',
+    data: function () {
+      return {
+        capitalRaids: json
+      }
+    },
+    components: {
+    }
+  }
+</script>
 
-nav {
-  padding: 30px;
-}
-
-nav a {
-  font-weight: bold;
-  color: #2c3e50;
-}
-
-nav a.router-link-exact-active {
-  color: #42b983;
-}
+<style scoped>
 </style>
