@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-<script setup>
-import TheWelcome from '../components/TheWelcome.vue'
-=======
 <template>
   <div class="flex flex-row justify-end">
     <div class="text-slate-900 dark:text-white">{{ icon }}</div>
@@ -48,11 +44,4 @@ export default {
   components: {
   }
 }
->>>>>>> 0ace408e285a44de4ca86e82e214d709f3e98afa
 </script>
-
-<template>
-  <main>
-    <TheWelcome />
-  </main>
-</template>
