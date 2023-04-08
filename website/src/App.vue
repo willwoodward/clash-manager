@@ -23,7 +23,7 @@ import HelloWorld from './components/HelloWorld.vue'
                   </tr>
                 </thead>
                 <tbody>
-                  <tr v-for="data in capitalRaids">
+                  <tr v-for="data in capitalRaids" :key="data.Tag">
                     <td>{{ data.Username }}</td>
                     <td>{{ data.Tag }}</td>
                     <td>{{ data.Attacks }}</td>
