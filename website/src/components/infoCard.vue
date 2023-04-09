@@ -2,27 +2,28 @@
 defineProps({
   heading: {
     type: String,
-    required: true
+    required: false
   },
   caption: {
     type: String,
-    required: true
+    required: false
   }
 })
 </script>
 
 <template>
-    <div class="bg-white dark:bg-slate-800 rounded-lg px-6 py-8 ring-1 ring-slate-900/5 shadow-xl" id="capital-raids">
-        <h3 class="text-slate-900 dark:text-white mt-5 text-base font-medium tracking-tight">{{ heading }}</h3>
-        <p class="text-slate-500 dark:text-slate-400 mt-2 text-sm">{{ caption }}</p>
-        <div>
-          <slot />
-        </div>
-    </div>
-  </template>
+  <div class="bg-white dark:bg-slate-900 rounded-lg px-6 py-4 shadow-xl ring-2 ring-white" id="card">
+      <h3 class="text-slate-900 dark:text-white mt-1 text-base font-medium tracking-tight">{{ heading }}</h3>
+      <p class="text-slate-500 dark:text-slate-400 mt-2 text-sm">{{ caption }}</p>
+      <div class="mt-4">
+        <slot />
+      </div>
+  </div>
+</template>
 
 <style scoped>
-    #capital-raids {
+    #card {
         width: min-content;
+        margin: auto;
     }
 </style>
