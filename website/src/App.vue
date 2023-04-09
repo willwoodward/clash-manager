@@ -9,12 +9,9 @@ import HelloWorld from './components/HelloWorld.vue'
         <div class="text-slate-900 dark:text-white">{{ hamburger }}</div>
         <div class="text-slate-900 dark:text-white">{{ settings }}</div>
       </div>
-    
-    <div class="bg-white dark:bg-slate-800 rounded-lg px-6 py-8 ring-1 ring-slate-900/5 shadow-xl" id="capital-raids">
-        <h3 class="text-slate-900 dark:text-white mt-5 text-base font-medium tracking-tight">Capital Raid Data</h3>
-        <p class="text-slate-500 dark:text-slate-400 mt-2 text-sm">This table shows the clan's capital attacks.</p>
-        <div id="app">
-            <table class="table-auto dark:text-slate-200">
+
+<infoCard heading="Capital Raids" caption="This shows the capital raids">
+  <table class="table-auto dark:text-slate-200">
                 <thead>
                   <tr>
                     <th>Username</th>
@@ -30,9 +27,7 @@ import HelloWorld from './components/HelloWorld.vue'
                   </tr>
                 </tbody>
               </table>
-        </div>
-    </div>
-<infoCard heading="Header"/>
+</infoCard>
 </template>
 
 <script>
