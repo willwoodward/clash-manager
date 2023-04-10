@@ -8,10 +8,14 @@
 </script>
 
 <template>
-    <div class="bg-slate-900 py-6 w-32" id="navbar">
+    <div class="bg-slate-900 py-6 w-32 transition-all" :class="{'hidden': navbarOpen === false}" id="navbar">
+        <div class="flex flex-row">
+          <div class="basis-3/4">1</div>
+          <div @click="closeNavbar" class="basis-1/4 hover:text-white">X</div>
+        </div>
         <!-- X to close -->
         <ul v-for="item in listItems" :key="item.id">
-            <li class="m-4 hover:text-white transition-all" :class="{'text-white': item.name === this.selected}">{{ item.name }}</li>
+            <li class="m-4 hover:text-white transition-all font-sans" :class="{'text-white': item.name === this.selected}">{{ item.name }}</li>
         </ul>
     </div>
 </template>
@@ -23,10 +27,21 @@
         listItems: [
           {id: 0, name: 'Home'},
           {id: 1, name: 'Members'}
-        ]
+        ],
+        navbarOpen: true
       }
     },
-    components: {
+    methods: {
+      closeNavbar: function () {
+        this.navbarOpen = false;
+      }
     }
   }
 </script>
+
+<style scoped>
+  #navbar {
+    position: fixed;
+    height: 100vh;
+  }
+</style>
