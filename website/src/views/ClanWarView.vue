@@ -7,14 +7,37 @@
 <template>
     <sideNavbar selected="Clan Wars" />
     <div class="ml-32 pt-8" id="main">
-        <infoCard heading="Clan War Attacks" caption="This shows the clan war attack percentage over time">
-            <lineGraph :data="chartData" :options="chartOptions"/>
-        </infoCard>
+        <!-- Current War -->
+        <div class="grid">
+            <infoCard>
+                <div class="grid grid-cols-3">
+                    <img :src="ourBadge">
+                    <p class="text-zinc-200 text-center text-4xl row-span-2" id="vs">vs</p>
+                    <img :src="opponentBadge">
+                    <div>
+                        <p v-for="data in ourStats" :key="data.id" class="text-center">{{ data.info }}</p>
+                    </div>
+                    <div>
+                        <p v-for="data in enemyStats" :key="data.id" class="text-center">{{ data.info }}</p>
+                    </div>
+                </div>
+            </infoCard>
+            <infoCard heading="Clan War Attacks" caption="This shows the clan war attack percentage over time">
+                <lineGraph :data="chartData" :options="chartOptions"/>
+            </infoCard>
+        </div>
   </div>
 </template>
 
 <script>
     import clanWars from '../../../data/clanWars.json';
+    import currentWar from '../../../data/currentWar.json';
+
+    // Formatting our war stats
+    const currentTotalAttacks = currentWar.teamSize*2
+    const ourStats = [{id: 0, info: currentWar.clan.name}, {id: 1, info: currentWar.clan.tag}, {id: 2, info: `${currentWar.clan.attacks} / ${currentTotalAttacks}`}, {id: 3, info: `${currentWar.clan.stars} stars`}, {id: 4, info: `${currentWar.clan.destructionPercentage}%`}];
+    const enemyStats = [{id: 0, info: currentWar.opponent.name}, {id: 1, info: currentWar.opponent.tag}, {id: 2, info: `${currentWar.opponent.attacks} / ${currentTotalAttacks}`}, {id: 3, info: `${currentWar.opponent.stars} stars`}, {id: 4, info: `${currentWar.opponent.destructionPercentage}%`}];
+
 
     const wars = clanWars.items.filter((e) => { return e.opponent.clanLevel !== 0 });
     const xAxisBackwards = wars.map((e) => {
@@ -75,6 +98,11 @@
         },
         data: function () {
             return {
+                ourBadge: currentWar.clan.badgeUrls.medium,
+                opponentBadge: currentWar.opponent.badgeUrls.medium,
+                ourStats: ourStats,
+                enemyStats: enemyStats,
+                maxAttacks: currentTotalAttacks,
                 chartData: {
                     type: 'line',
                     labels: xAxis,
@@ -88,7 +116,6 @@
                 },
                 chartOptions: {
                     borderColor: 'rgba(250, 250, 250, 0.9)',
-                    pointStyle: false,
                     tension: 0.3,
                     animation,
                     interaction: {
@@ -103,3 +130,10 @@
         }
     }
 </script>
+
+<style scoped>
+    #vs {
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+</style>

@@ -1,0 +1,458 @@
+{
+    "state": "preparation",
+    "teamSize": 30,
+    "attacksPerMember": 2,
+    "preparationStartTime": "20230410T233213.000Z",
+    "startTime": "20230411T223213.000Z",
+    "endTime": "20230412T223213.000Z",
+    "clan": {
+      "tag": "#29U8UJCU0",
+      "name": "Xanthe BB",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/vOITglQzT5GfYN3vPTyvVSPTP0D7YXDcJamAYoJGObk.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/vOITglQzT5GfYN3vPTyvVSPTP0D7YXDcJamAYoJGObk.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/vOITglQzT5GfYN3vPTyvVSPTP0D7YXDcJamAYoJGObk.png"
+      },
+      "clanLevel": 11,
+      "attacks": 0,
+      "stars": 0,
+      "destructionPercentage": 0,
+      "members": [
+        {
+          "tag": "#JYP88UR9",
+          "name": "Tommy",
+          "townhallLevel": 14,
+          "mapPosition": 1,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#LGPJPLVVC",
+          "name": "Adrian",
+          "townhallLevel": 12,
+          "mapPosition": 11,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#YUYQVYYQG",
+          "name": "wezzui",
+          "townhallLevel": 11,
+          "mapPosition": 23,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#QC8P2RJLY",
+          "name": "Benji",
+          "townhallLevel": 9,
+          "mapPosition": 29,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#99G8CCL8",
+          "name": "SkyBlueMan",
+          "townhallLevel": 12,
+          "mapPosition": 8,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#LJUPC2YYR",
+          "name": "Monkey D. Luffy",
+          "townhallLevel": 12,
+          "mapPosition": 16,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#QY0QVQ0JJ",
+          "name": "ODHRANR",
+          "townhallLevel": 11,
+          "mapPosition": 21,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#YU0LLJG89",
+          "name": "LK",
+          "townhallLevel": 11,
+          "mapPosition": 22,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#8GGPYU82U",
+          "name": "Rainbow Dash",
+          "townhallLevel": 12,
+          "mapPosition": 17,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#Y0CJJJGV",
+          "name": "Eldaro 29",
+          "townhallLevel": 14,
+          "mapPosition": 4,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#QVYPRYPC9",
+          "name": "Chris",
+          "townhallLevel": 10,
+          "mapPosition": 25,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#20CRUCLL",
+          "name": "swagman",
+          "townhallLevel": 14,
+          "mapPosition": 3,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#G88UCVPL",
+          "name": "Will Woodward",
+          "townhallLevel": 14,
+          "mapPosition": 2,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#20LJ2JLQ",
+          "name": "Mighty Max",
+          "townhallLevel": 12,
+          "mapPosition": 10,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#9QGP2LGC8",
+          "name": "DRAGNIEL",
+          "townhallLevel": 13,
+          "mapPosition": 5,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#92CG09PCC",
+          "name": "hunain",
+          "townhallLevel": 12,
+          "mapPosition": 13,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#PPG2CLJY",
+          "name": "Ruane14",
+          "townhallLevel": 12,
+          "mapPosition": 15,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#928LV2JV2",
+          "name": "Artem",
+          "townhallLevel": 12,
+          "mapPosition": 9,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#LJ9GJ8U8V",
+          "name": "Lextober",
+          "townhallLevel": 10,
+          "mapPosition": 24,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#PLL090RC0",
+          "name": "jojo",
+          "townhallLevel": 12,
+          "mapPosition": 12,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#QG98CPCUU",
+          "name": "smnagpal",
+          "townhallLevel": 11,
+          "mapPosition": 20,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#G92PL00CP",
+          "name": "JW2003",
+          "townhallLevel": 9,
+          "mapPosition": 27,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#LYRLU90LJ",
+          "name": "Niko",
+          "townhallLevel": 13,
+          "mapPosition": 6,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#QU88VVCG8",
+          "name": "paul",
+          "townhallLevel": 11,
+          "mapPosition": 19,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#LCLLQUY8C",
+          "name": "S1",
+          "townhallLevel": 12,
+          "mapPosition": 18,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#YUQ0UQQQG",
+          "name": "empire 2.5",
+          "townhallLevel": 12,
+          "mapPosition": 14,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#LG8VL08RJ",
+          "name": "Cameron",
+          "townhallLevel": 13,
+          "mapPosition": 7,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#QQUP9Y9PL",
+          "name": "Grislyjojo",
+          "townhallLevel": 9,
+          "mapPosition": 26,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#QVQPQJUVU",
+          "name": "hayday",
+          "townhallLevel": 9,
+          "mapPosition": 30,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#QPLJ9G8CJ",
+          "name": "Adrian",
+          "townhallLevel": 9,
+          "mapPosition": 28,
+          "opponentAttacks": 0
+        }
+      ]
+    },
+    "opponent": {
+      "tag": "#2QYCV8RR9",
+      "name": "油饼食不食",
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Vkoo1VyROctp6CNzcXZcXmzCWC18uf5YpZpNr4iibTw.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Vkoo1VyROctp6CNzcXZcXmzCWC18uf5YpZpNr4iibTw.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Vkoo1VyROctp6CNzcXZcXmzCWC18uf5YpZpNr4iibTw.png"
+      },
+      "clanLevel": 9,
+      "attacks": 0,
+      "stars": 0,
+      "destructionPercentage": 0,
+      "members": [
+        {
+          "tag": "#QLGVL88Y8",
+          "name": "新手",
+          "townhallLevel": 12,
+          "mapPosition": 20,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#YQ0PC9YQ",
+          "name": "今晚打老虎",
+          "townhallLevel": 13,
+          "mapPosition": 2,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#QQQ9RULLG",
+          "name": "穿山甲",
+          "townhallLevel": 12,
+          "mapPosition": 15,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#QLL80G8R0",
+          "name": "野狼部队",
+          "townhallLevel": 14,
+          "mapPosition": 4,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#QVGV2UJ9",
+          "name": "DiabloTM",
+          "townhallLevel": 12,
+          "mapPosition": 9,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#QYQP8LCQR",
+          "name": "红楼梦",
+          "townhallLevel": 13,
+          "mapPosition": 5,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#GVPYUU90",
+          "name": "Torres",
+          "townhallLevel": 12,
+          "mapPosition": 7,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#QVPCR9LC8",
+          "name": "何方妖孽",
+          "townhallLevel": 14,
+          "mapPosition": 6,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#QVLCPRCYY",
+          "name": "新第一人",
+          "townhallLevel": 12,
+          "mapPosition": 26,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#QCYJGG0YV",
+          "name": "Super invincibl",
+          "townhallLevel": 14,
+          "mapPosition": 8,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#R20JQGJG",
+          "name": "牛牛的牛肉面",
+          "townhallLevel": 13,
+          "mapPosition": 10,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#G0QV0JUCQ",
+          "name": "ckqswlh",
+          "townhallLevel": 9,
+          "mapPosition": 30,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#QVG09Y289",
+          "name": "第五军军长",
+          "townhallLevel": 12,
+          "mapPosition": 11,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#QV8JPRQLL",
+          "name": "雷龙yyds",
+          "townhallLevel": 12,
+          "mapPosition": 16,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#8PJQY0JCL",
+          "name": "小陈",
+          "townhallLevel": 11,
+          "mapPosition": 23,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#G0CYYQ0VJ",
+          "name": "11",
+          "townhallLevel": 11,
+          "mapPosition": 24,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#9QGQL9YPL",
+          "name": "12345卡卡",
+          "townhallLevel": 12,
+          "mapPosition": 18,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#YJ0P2RLCY",
+          "name": "Zokar",
+          "townhallLevel": 12,
+          "mapPosition": 12,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#G28UL92GQ",
+          "name": "乾岱",
+          "townhallLevel": 11,
+          "mapPosition": 27,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#2QURR090G",
+          "name": "Clash",
+          "townhallLevel": 12,
+          "mapPosition": 17,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#QVJ8LG0Q8",
+          "name": "別來我會怕",
+          "townhallLevel": 11,
+          "mapPosition": 22,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#G299RQJ8R",
+          "name": "蓦然",
+          "townhallLevel": 12,
+          "mapPosition": 13,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#G8VC0PRCQ",
+          "name": "鍇kl",
+          "townhallLevel": 10,
+          "mapPosition": 28,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#CUV98PVP",
+          "name": "云淡风轻",
+          "townhallLevel": 15,
+          "mapPosition": 1,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#QC0YL2JUY",
+          "name": "阿土国际",
+          "townhallLevel": 12,
+          "mapPosition": 21,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#92U8PVGL9",
+          "name": "帅哥阿铭",
+          "townhallLevel": 14,
+          "mapPosition": 3,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#QCCV80Q9U",
+          "name": "TJS",
+          "townhallLevel": 11,
+          "mapPosition": 25,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#QJ9RRGVGP",
+          "name": "青空",
+          "townhallLevel": 12,
+          "mapPosition": 19,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#QLCJLJ2RJ",
+          "name": "瑞基",
+          "townhallLevel": 9,
+          "mapPosition": 29,
+          "opponentAttacks": 0
+        },
+        {
+          "tag": "#QPQPPCQJV",
+          "name": "很帅的村庄",
+          "townhallLevel": 13,
+          "mapPosition": 14,
+          "opponentAttacks": 0
+        }
+      ]
+    }
+  }

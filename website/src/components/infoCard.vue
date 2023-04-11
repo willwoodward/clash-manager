@@ -12,7 +12,7 @@ defineProps({
 </script>
 
 <template>
-  <div class="bg-white dark:bg-zinc-900 rounded px-6 py-4 shadow-xl ring-2 ring-white" id="card">
+  <div class="bg-white dark:bg-zinc-900 rounded px-6 py-4 m-6 shadow-xl ring-2 ring-white" id="card">
       <h3 class="text-zinc-900 dark:text-white mt-1 text-base font-medium tracking-tight">{{ heading }}</h3>
       <p class="text-zinc-500 dark:text-zinc-400 mt-2 text-sm">{{ caption }}</p>
       <div class="mt-4">
@@ -23,7 +23,6 @@ defineProps({
 
 <style scoped>
     #card {
-        width: min-content;
-        margin: auto;
+        width: max-content;
     }
 </style>
