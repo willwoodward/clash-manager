@@ -15,7 +15,9 @@
         </div>
         <!-- X to close -->
         <ul v-for="item in listItems" :key="item.id">
+          <RouterLink :to="item.link">
             <li class="p-4 hover:text-white hover:border-r-4 hover:bg-zinc-800 transition-all font-sans" :class="{'text-white': item.name === this.selected}">{{ item.name }}</li>
+          </RouterLink>        
         </ul>
     </div>
 </template>
@@ -25,9 +27,9 @@
     data: function () {
       return {
         listItems: [
-          {id: 0, name: 'Home'},
-          {id: 1, name: 'Members'},
-          {id: 2, name: 'Clan Wars'}
+          {id: 0, name: 'Home', link: "/"},
+          {id: 1, name: 'Members', link: "/members"},
+          {id: 2, name: 'Clan Wars', link: "/clanwars"}
         ],
         navbarOpen: true
       }
