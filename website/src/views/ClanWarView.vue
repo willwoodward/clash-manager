@@ -8,8 +8,9 @@
     <sideNavbar selected="Clan Wars" />
     <div class="ml-32 pt-8" id="main">
         <!-- Current War -->
-        <div class="grid">
-            <infoCard>
+        <div class="grid grid-cols-4 grid-flow-row-dense">
+            <div></div>
+            <infoCard class="col-span-2">
                 <div class="grid grid-cols-3">
                     <img :src="ourBadge">
                     <p class="text-zinc-200 text-center text-4xl row-span-2" id="vs">vs</p>
@@ -22,7 +23,8 @@
                     </div>
                 </div>
             </infoCard>
-            <infoCard heading="Clan War Attacks" caption="This shows the clan war attack percentage over time">
+            <div></div>
+            <infoCard heading="Clan War Attacks" caption="This shows the clan war attack percentage over time" class="col-span-4">
                 <lineGraph :data="chartData" :options="chartOptions"/>
             </infoCard>
         </div>
