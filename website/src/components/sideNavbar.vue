@@ -8,14 +8,14 @@
 </script>
 
 <template>
-    <div class="bg-slate-900 py-6 w-32 transition-all" :class="{'hidden': navbarOpen === false}" id="navbar">
+    <div class="bg-zinc-900 py-6 w-32 transition-all" :class="{'hidden': navbarOpen === false}" id="navbar">
         <div class="flex flex-row">
           <div class="basis-3/4">1</div>
           <div @click="closeNavbar" class="basis-1/4 hover:text-white">X</div>
         </div>
         <!-- X to close -->
         <ul v-for="item in listItems" :key="item.id">
-            <li class="m-4 hover:text-white transition-all font-sans" :class="{'text-white': item.name === this.selected}">{{ item.name }}</li>
+            <li class="p-4 hover:text-white hover:border-r-4 hover:bg-zinc-800 transition-all font-sans" :class="{'text-white': item.name === this.selected}">{{ item.name }}</li>
         </ul>
     </div>
 </template>

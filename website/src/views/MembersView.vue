@@ -8,7 +8,7 @@
     <sideNavbar selected="Members" />
     <div class="ml-32" id="main">
       <infoCard heading="Capital Raids" caption="This shows the capital raids">
-      <table class="table-auto dark:text-slate-200">
+      <table class="table-auto dark:text-zinc-200">
         <thead>
           <tr>
             <th>Username</th>
