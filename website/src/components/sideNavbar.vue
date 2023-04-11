@@ -8,7 +8,7 @@
 </script>
 
 <template>
-    <div class="bg-zinc-900 py-6 w-32 transition-all" :class="{'hidden': navbarOpen === false}" id="navbar">
+    <div class="bg-zinc-900 py-6 transition-all" :class="navbarOpen ? 'w-32': 'w-8'" id="navbar">
         <div class="flex flex-row">
           <div class="basis-3/4">1</div>
           <div @click="closeNavbar" class="basis-1/4 hover:text-white">X</div>
@@ -36,7 +36,7 @@
     },
     methods: {
       closeNavbar: function () {
-        this.navbarOpen = false;
+        this.navbarOpen = !this.navbarOpen;
       }
     }
   }
