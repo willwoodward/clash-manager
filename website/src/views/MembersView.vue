@@ -6,7 +6,7 @@
 
 <template>
     <sideNavbar selected="Members" />
-    <div class="ml-32" id="main">
+    <div class="ml-32 pt-8" id="main">
       <infoCard heading="Capital Raids" caption="This shows the capital raids">
       <table class="table-auto dark:text-zinc-200">
         <thead>

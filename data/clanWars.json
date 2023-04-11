@@ -1,0 +1,3807 @@
+{
+    "items": [
+      {
+        "result": "tie",
+        "endTime": "20230410T091230.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 1,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/vOITglQzT5GfYN3vPTyvVSPTP0D7YXDcJamAYoJGObk.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/vOITglQzT5GfYN3vPTyvVSPTP0D7YXDcJamAYoJGObk.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/vOITglQzT5GfYN3vPTyvVSPTP0D7YXDcJamAYoJGObk.png"
+          },
+          "clanLevel": 11,
+          "attacks": 55,
+          "stars": 99,
+          "destructionPercentage": 238.46666,
+          "expEarned": 0
+        },
+        "opponent": {
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+          },
+          "clanLevel": 0,
+          "stars": 241,
+          "destructionPercentage": 0
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20230326T051021.000Z",
+        "teamSize": 40,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/vOITglQzT5GfYN3vPTyvVSPTP0D7YXDcJamAYoJGObk.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/vOITglQzT5GfYN3vPTyvVSPTP0D7YXDcJamAYoJGObk.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/vOITglQzT5GfYN3vPTyvVSPTP0D7YXDcJamAYoJGObk.png"
+          },
+          "clanLevel": 11,
+          "attacks": 33,
+          "stars": 68,
+          "destructionPercentage": 58.95,
+          "expEarned": 260
+        },
+        "opponent": {
+          "tag": "#2G2QYV8J0",
+          "name": "BD BOYS ★★★",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WNu-AnShmQ9Fy9BX2VqXbdh_6ZQyjdmfyZguVVzbqCI.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WNu-AnShmQ9Fy9BX2VqXbdh_6ZQyjdmfyZguVVzbqCI.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WNu-AnShmQ9Fy9BX2VqXbdh_6ZQyjdmfyZguVVzbqCI.png"
+          },
+          "clanLevel": 4,
+          "stars": 64,
+          "destructionPercentage": 61.15
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20230322T061749.000Z",
+        "teamSize": 40,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/vOITglQzT5GfYN3vPTyvVSPTP0D7YXDcJamAYoJGObk.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/vOITglQzT5GfYN3vPTyvVSPTP0D7YXDcJamAYoJGObk.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/vOITglQzT5GfYN3vPTyvVSPTP0D7YXDcJamAYoJGObk.png"
+          },
+          "clanLevel": 11,
+          "attacks": 29,
+          "stars": 51,
+          "destructionPercentage": 47.05,
+          "expEarned": 240
+        },
+        "opponent": {
+          "tag": "#2YCCGPJ9L",
+          "name": "Guliston Shaxri",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/L7EcvmU3_idcfAR6-OEoDjyJrRo7gnr6eJ7q7sSZwKc.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/L7EcvmU3_idcfAR6-OEoDjyJrRo7gnr6eJ7q7sSZwKc.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/L7EcvmU3_idcfAR6-OEoDjyJrRo7gnr6eJ7q7sSZwKc.png"
+          },
+          "clanLevel": 11,
+          "stars": 11,
+          "destructionPercentage": 13.45
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20230318T210332.000Z",
+        "teamSize": 25,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/vOITglQzT5GfYN3vPTyvVSPTP0D7YXDcJamAYoJGObk.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/vOITglQzT5GfYN3vPTyvVSPTP0D7YXDcJamAYoJGObk.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/vOITglQzT5GfYN3vPTyvVSPTP0D7YXDcJamAYoJGObk.png"
+          },
+          "clanLevel": 11,
+          "attacks": 21,
+          "stars": 45,
+          "destructionPercentage": 65.24,
+          "expEarned": 162
+        },
+        "opponent": {
+          "tag": "#2YJR0GJ09",
+          "name": "Critters",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/e6ZcEZPwgCJD7D8mIyHSssa6ciNBBTtc_QxlDMy_fX4.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/e6ZcEZPwgCJD7D8mIyHSssa6ciNBBTtc_QxlDMy_fX4.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/e6ZcEZPwgCJD7D8mIyHSssa6ciNBBTtc_QxlDMy_fX4.png"
+          },
+          "clanLevel": 6,
+          "stars": 55,
+          "destructionPercentage": 75.24
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20230313T062741.000Z",
+        "teamSize": 40,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/wBn7P_SXmDvjq-wRJrzu7TU3Tjj_boAdQ98zYmCzDMA.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/wBn7P_SXmDvjq-wRJrzu7TU3Tjj_boAdQ98zYmCzDMA.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/wBn7P_SXmDvjq-wRJrzu7TU3Tjj_boAdQ98zYmCzDMA.png"
+          },
+          "clanLevel": 11,
+          "attacks": 39,
+          "stars": 75,
+          "destructionPercentage": 68,
+          "expEarned": 257
+        },
+        "opponent": {
+          "tag": "#2QCV0GPVV",
+          "name": "DEVED",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/_IeBB4BPWTsO_6BE_M_uzmAnDee65_bgO1sBtN5htgE.png"
+          },
+          "clanLevel": 6,
+          "stars": 93,
+          "destructionPercentage": 82.35
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20230310T024037.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 1,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/wBn7P_SXmDvjq-wRJrzu7TU3Tjj_boAdQ98zYmCzDMA.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/wBn7P_SXmDvjq-wRJrzu7TU3Tjj_boAdQ98zYmCzDMA.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/wBn7P_SXmDvjq-wRJrzu7TU3Tjj_boAdQ98zYmCzDMA.png"
+          },
+          "clanLevel": 11,
+          "attacks": 96,
+          "stars": 263,
+          "destructionPercentage": 521.3333,
+          "expEarned": 0
+        },
+        "opponent": {
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+          },
+          "clanLevel": 0,
+          "stars": 136,
+          "destructionPercentage": 0
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20230301T223843.000Z",
+        "teamSize": 30,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/wBn7P_SXmDvjq-wRJrzu7TU3Tjj_boAdQ98zYmCzDMA.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/wBn7P_SXmDvjq-wRJrzu7TU3Tjj_boAdQ98zYmCzDMA.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/wBn7P_SXmDvjq-wRJrzu7TU3Tjj_boAdQ98zYmCzDMA.png"
+          },
+          "clanLevel": 11,
+          "attacks": 34,
+          "stars": 61,
+          "destructionPercentage": 68.1,
+          "expEarned": 222
+        },
+        "opponent": {
+          "tag": "#2YPRYJC0C",
+          "name": "Peaky blinder",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/NdvKML1P-KIINAKagmcPVtvK6FFhdylqzMhCmY_8au4.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/NdvKML1P-KIINAKagmcPVtvK6FFhdylqzMhCmY_8au4.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/NdvKML1P-KIINAKagmcPVtvK6FFhdylqzMhCmY_8au4.png"
+          },
+          "clanLevel": 7,
+          "stars": 65,
+          "destructionPercentage": 78.23333
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20230223T181700.000Z",
+        "teamSize": 10,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/wBn7P_SXmDvjq-wRJrzu7TU3Tjj_boAdQ98zYmCzDMA.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/wBn7P_SXmDvjq-wRJrzu7TU3Tjj_boAdQ98zYmCzDMA.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/wBn7P_SXmDvjq-wRJrzu7TU3Tjj_boAdQ98zYmCzDMA.png"
+          },
+          "clanLevel": 11,
+          "attacks": 15,
+          "stars": 16,
+          "destructionPercentage": 64.1,
+          "expEarned": 79
+        },
+        "opponent": {
+          "tag": "#GC80U8G2",
+          "name": "REVOLUTION",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/2kAbY49lhtpyZa7D8HvIHplESZvaiswrEqBRu2tenuE.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/2kAbY49lhtpyZa7D8HvIHplESZvaiswrEqBRu2tenuE.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/2kAbY49lhtpyZa7D8HvIHplESZvaiswrEqBRu2tenuE.png"
+          },
+          "clanLevel": 15,
+          "stars": 25,
+          "destructionPercentage": 89.3
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20230215T094549.000Z",
+        "teamSize": 30,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/wBn7P_SXmDvjq-wRJrzu7TU3Tjj_boAdQ98zYmCzDMA.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/wBn7P_SXmDvjq-wRJrzu7TU3Tjj_boAdQ98zYmCzDMA.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/wBn7P_SXmDvjq-wRJrzu7TU3Tjj_boAdQ98zYmCzDMA.png"
+          },
+          "clanLevel": 11,
+          "attacks": 46,
+          "stars": 71,
+          "destructionPercentage": 83.73333,
+          "expEarned": 233
+        },
+        "opponent": {
+          "tag": "#22PC29UU2",
+          "name": ",,,spartacus,,,",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/xRW1oQsDdc_crhAxGdSW3zg8fCfLmwonpuIUBPF9tXc.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/xRW1oQsDdc_crhAxGdSW3zg8fCfLmwonpuIUBPF9tXc.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/xRW1oQsDdc_crhAxGdSW3zg8fCfLmwonpuIUBPF9tXc.png"
+          },
+          "clanLevel": 6,
+          "stars": 74,
+          "destructionPercentage": 88.6
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20230212T200222.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/wBn7P_SXmDvjq-wRJrzu7TU3Tjj_boAdQ98zYmCzDMA.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/wBn7P_SXmDvjq-wRJrzu7TU3Tjj_boAdQ98zYmCzDMA.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/wBn7P_SXmDvjq-wRJrzu7TU3Tjj_boAdQ98zYmCzDMA.png"
+          },
+          "clanLevel": 11,
+          "attacks": 19,
+          "stars": 33,
+          "destructionPercentage": 76.666664,
+          "expEarned": 111
+        },
+        "opponent": {
+          "tag": "#2YCYCQ00Y",
+          "name": "L'AKATSUKI",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/sjGhn78cz9uvrpnUJil23SAGGiRHR63lzEGeXF9S_aM.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/sjGhn78cz9uvrpnUJil23SAGGiRHR63lzEGeXF9S_aM.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/sjGhn78cz9uvrpnUJil23SAGGiRHR63lzEGeXF9S_aM.png"
+          },
+          "clanLevel": 1,
+          "stars": 35,
+          "destructionPercentage": 80.333336
+        }
+      },
+      {
+        "result": "tie",
+        "endTime": "20230210T112305.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 1,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/wBn7P_SXmDvjq-wRJrzu7TU3Tjj_boAdQ98zYmCzDMA.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/wBn7P_SXmDvjq-wRJrzu7TU3Tjj_boAdQ98zYmCzDMA.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/wBn7P_SXmDvjq-wRJrzu7TU3Tjj_boAdQ98zYmCzDMA.png"
+          },
+          "clanLevel": 11,
+          "attacks": 69,
+          "stars": 126,
+          "destructionPercentage": 328.4,
+          "expEarned": 0
+        },
+        "opponent": {
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+          },
+          "clanLevel": 0,
+          "stars": 186,
+          "destructionPercentage": 0
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20230201T184428.000Z",
+        "teamSize": 10,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/wBn7P_SXmDvjq-wRJrzu7TU3Tjj_boAdQ98zYmCzDMA.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/wBn7P_SXmDvjq-wRJrzu7TU3Tjj_boAdQ98zYmCzDMA.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/wBn7P_SXmDvjq-wRJrzu7TU3Tjj_boAdQ98zYmCzDMA.png"
+          },
+          "clanLevel": 11,
+          "attacks": 16,
+          "stars": 28,
+          "destructionPercentage": 95.3,
+          "expEarned": 145
+        },
+        "opponent": {
+          "tag": "#2GL9PRVLQ",
+          "name": "king",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/ZyzMJw1fF2MZLayI-sXEkaJaZNrcANWQamgN_9UoueE.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/ZyzMJw1fF2MZLayI-sXEkaJaZNrcANWQamgN_9UoueE.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/ZyzMJw1fF2MZLayI-sXEkaJaZNrcANWQamgN_9UoueE.png"
+          },
+          "clanLevel": 2,
+          "stars": 26,
+          "destructionPercentage": 85.7
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20230127T185444.000Z",
+        "teamSize": 10,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png"
+          },
+          "clanLevel": 10,
+          "attacks": 14,
+          "stars": 28,
+          "destructionPercentage": 96.6,
+          "expEarned": 135
+        },
+        "opponent": {
+          "tag": "#PRYLQYQL",
+          "name": "سنندج",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/CM6zQ0dRkESMqDRYmjNkaNtAkkO8xkczg2dFCLDLZ5M.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/CM6zQ0dRkESMqDRYmjNkaNtAkkO8xkczg2dFCLDLZ5M.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/CM6zQ0dRkESMqDRYmjNkaNtAkkO8xkczg2dFCLDLZ5M.png"
+          },
+          "clanLevel": 15,
+          "stars": 28,
+          "destructionPercentage": 95.7
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20230125T175851.000Z",
+        "teamSize": 40,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png"
+          },
+          "clanLevel": 10,
+          "attacks": 15,
+          "stars": 23,
+          "destructionPercentage": 23.2,
+          "expEarned": 73
+        },
+        "opponent": {
+          "tag": "#29JCPCQ22",
+          "name": "الحرب والدعم",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/oetTcsP0GieJN9J4j2MTfCqXVgQwoCgUYWvcoFIbvMY.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/oetTcsP0GieJN9J4j2MTfCqXVgQwoCgUYWvcoFIbvMY.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/oetTcsP0GieJN9J4j2MTfCqXVgQwoCgUYWvcoFIbvMY.png"
+          },
+          "clanLevel": 12,
+          "stars": 81,
+          "destructionPercentage": 73.975
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20230122T233428.000Z",
+        "teamSize": 50,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png"
+          },
+          "clanLevel": 10,
+          "attacks": 33,
+          "stars": 74,
+          "destructionPercentage": 52.86,
+          "expEarned": 283
+        },
+        "opponent": {
+          "tag": "#2Y9VJVCYQ",
+          "name": "BURMESE WARRIOR",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/CW7U77goqPGOcPEc1h8jtNPZF-IXIruPpmStfpYVCdI.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/CW7U77goqPGOcPEc1h8jtNPZF-IXIruPpmStfpYVCdI.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/CW7U77goqPGOcPEc1h8jtNPZF-IXIruPpmStfpYVCdI.png"
+          },
+          "clanLevel": 10,
+          "stars": 67,
+          "destructionPercentage": 49.98
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20230120T210050.000Z",
+        "teamSize": 5,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png"
+          },
+          "clanLevel": 10,
+          "attacks": 7,
+          "stars": 13,
+          "destructionPercentage": 96.8,
+          "expEarned": 105
+        },
+        "opponent": {
+          "tag": "#2LUJPCGPP",
+          "name": "Noofficetime",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/SsY-f02IACVORy5m8HNXZSHaTep20K2JN9azeiuBwzE.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/SsY-f02IACVORy5m8HNXZSHaTep20K2JN9azeiuBwzE.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/SsY-f02IACVORy5m8HNXZSHaTep20K2JN9azeiuBwzE.png"
+          },
+          "clanLevel": 2,
+          "stars": 13,
+          "destructionPercentage": 88
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20230117T175834.000Z",
+        "teamSize": 5,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png"
+          },
+          "clanLevel": 10,
+          "attacks": 6,
+          "stars": 7,
+          "destructionPercentage": 55.8,
+          "expEarned": 47
+        },
+        "opponent": {
+          "tag": "#2802JLVGV",
+          "name": "sks crew france",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/LNAfRbRwn9vzieX9w9Ga0jO_IHRYIzk4q-4zSDhVenA.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/LNAfRbRwn9vzieX9w9Ga0jO_IHRYIzk4q-4zSDhVenA.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/LNAfRbRwn9vzieX9w9Ga0jO_IHRYIzk4q-4zSDhVenA.png"
+          },
+          "clanLevel": 14,
+          "stars": 14,
+          "destructionPercentage": 95.8
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20230113T132513.000Z",
+        "teamSize": 30,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png"
+          },
+          "clanLevel": 10,
+          "attacks": 29,
+          "stars": 53,
+          "destructionPercentage": 67.13333,
+          "expEarned": 205
+        },
+        "opponent": {
+          "tag": "#2Y0JPGV8U",
+          "name": "truble makers",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/3slk6MSKV8yWZ9HOtREcivQ_0lmuyH65vB8btFK1D4o.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/3slk6MSKV8yWZ9HOtREcivQ_0lmuyH65vB8btFK1D4o.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/3slk6MSKV8yWZ9HOtREcivQ_0lmuyH65vB8btFK1D4o.png"
+          },
+          "clanLevel": 9,
+          "stars": 74,
+          "destructionPercentage": 92.066666
+        }
+      },
+      {
+        "result": null,
+        "endTime": "20230109T172951.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 1,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png"
+          },
+          "clanLevel": 10,
+          "attacks": 71,
+          "stars": 169,
+          "destructionPercentage": 349.2,
+          "expEarned": 0
+        },
+        "opponent": {
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+          },
+          "clanLevel": 0,
+          "stars": 161,
+          "destructionPercentage": 0
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20221220T223137.000Z",
+        "teamSize": 40,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png"
+          },
+          "clanLevel": 10,
+          "attacks": 17,
+          "stars": 29,
+          "destructionPercentage": 30.325,
+          "expEarned": 100
+        },
+        "opponent": {
+          "tag": "#RRL9YRG2",
+          "name": "ŞAMPİYON",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/ISyB5wAm2v7B_rm-LJS360ga-83IFL8MABcjxft1RkA.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/ISyB5wAm2v7B_rm-LJS360ga-83IFL8MABcjxft1RkA.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/ISyB5wAm2v7B_rm-LJS360ga-83IFL8MABcjxft1RkA.png"
+          },
+          "clanLevel": 18,
+          "stars": 83,
+          "destructionPercentage": 74.65
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20221218T002626.000Z",
+        "teamSize": 40,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png"
+          },
+          "clanLevel": 10,
+          "attacks": 32,
+          "stars": 52,
+          "destructionPercentage": 49.525,
+          "expEarned": 227
+        },
+        "opponent": {
+          "tag": "#2L9U98YLL",
+          "name": "anurada ok",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/26mWzOqonO2Bxai6JIG18KKknq9IU1JWFcOy2608J44.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/26mWzOqonO2Bxai6JIG18KKknq9IU1JWFcOy2608J44.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/26mWzOqonO2Bxai6JIG18KKknq9IU1JWFcOy2608J44.png"
+          },
+          "clanLevel": 8,
+          "stars": 45,
+          "destructionPercentage": 44.075
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20221215T154822.000Z",
+        "teamSize": 5,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png"
+          },
+          "clanLevel": 10,
+          "attacks": 9,
+          "stars": 12,
+          "destructionPercentage": 92,
+          "expEarned": 123
+        },
+        "opponent": {
+          "tag": "#2QQVCL0CL",
+          "name": "مهم",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/DcHcgP14dK0OPmf_G77JtangGL7_5u6oAOWUbbXP8Yw.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/DcHcgP14dK0OPmf_G77JtangGL7_5u6oAOWUbbXP8Yw.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/DcHcgP14dK0OPmf_G77JtangGL7_5u6oAOWUbbXP8Yw.png"
+          },
+          "clanLevel": 1,
+          "stars": 11,
+          "destructionPercentage": 75.6
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20221213T153621.000Z",
+        "teamSize": 5,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png"
+          },
+          "clanLevel": 10,
+          "attacks": 6,
+          "stars": 14,
+          "destructionPercentage": 94.8,
+          "expEarned": 126
+        },
+        "opponent": {
+          "tag": "#2L9820QPU",
+          "name": "AKATSUKI",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/uHyeSMnSdeaOovLiK_1NeP2Zhjf7Iey1Ctk486eqg1U.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/uHyeSMnSdeaOovLiK_1NeP2Zhjf7Iey1Ctk486eqg1U.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/uHyeSMnSdeaOovLiK_1NeP2Zhjf7Iey1Ctk486eqg1U.png"
+          },
+          "clanLevel": 9,
+          "stars": 0,
+          "destructionPercentage": 17.4
+        }
+      },
+      {
+        "result": null,
+        "endTime": "20221210T145745.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 1,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png"
+          },
+          "clanLevel": 10,
+          "attacks": 43,
+          "stars": 117,
+          "destructionPercentage": 243.06667,
+          "expEarned": 0
+        },
+        "opponent": {
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+          },
+          "clanLevel": 0,
+          "stars": 138,
+          "destructionPercentage": 0
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20221115T215933.000Z",
+        "teamSize": 30,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png"
+          },
+          "clanLevel": 10,
+          "attacks": 22,
+          "stars": 36,
+          "destructionPercentage": 48.133335,
+          "expEarned": 146
+        },
+        "opponent": {
+          "tag": "#2L0YYLVPV",
+          "name": "Blind Assassins",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/D-juy9leEYaU7PR6LYGiEFWvAga0Ww0c6uDciZsO5fM.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/D-juy9leEYaU7PR6LYGiEFWvAga0Ww0c6uDciZsO5fM.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/D-juy9leEYaU7PR6LYGiEFWvAga0Ww0c6uDciZsO5fM.png"
+          },
+          "clanLevel": 12,
+          "stars": 56,
+          "destructionPercentage": 69.6
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20221112T224320.000Z",
+        "teamSize": 40,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png"
+          },
+          "clanLevel": 10,
+          "attacks": 25,
+          "stars": 50,
+          "destructionPercentage": 47.85,
+          "expEarned": 229
+        },
+        "opponent": {
+          "tag": "#RRGVQYUP",
+          "name": "RE BARBARO 000",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/w_mtVf9PueGVO88R-M6YKMuNjOpvdyfuZ13NdxROoHM.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/w_mtVf9PueGVO88R-M6YKMuNjOpvdyfuZ13NdxROoHM.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/w_mtVf9PueGVO88R-M6YKMuNjOpvdyfuZ13NdxROoHM.png"
+          },
+          "clanLevel": 16,
+          "stars": 42,
+          "destructionPercentage": 38.175
+        }
+      },
+      {
+        "result": null,
+        "endTime": "20221110T202055.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 1,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png"
+          },
+          "clanLevel": 10,
+          "attacks": 80,
+          "stars": 214,
+          "destructionPercentage": 441.93332,
+          "expEarned": 0
+        },
+        "opponent": {
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+          },
+          "clanLevel": 0,
+          "stars": 168,
+          "destructionPercentage": 0
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20221102T191343.000Z",
+        "teamSize": 40,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png"
+          },
+          "clanLevel": 10,
+          "attacks": 32,
+          "stars": 58,
+          "destructionPercentage": 57.1,
+          "expEarned": 222
+        },
+        "opponent": {
+          "tag": "#2Q8PJYJVP",
+          "name": "merasi clan",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/ZT_QId0WC7zSLU4SsbzyeeuFGotEWRLuOn6FGkTM0xA.png"
+          },
+          "clanLevel": 9,
+          "stars": 83,
+          "destructionPercentage": 77.425
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20221016T055436.000Z",
+        "teamSize": 5,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png"
+          },
+          "clanLevel": 10,
+          "attacks": 4,
+          "stars": 7,
+          "destructionPercentage": 59.8,
+          "expEarned": 31
+        },
+        "opponent": {
+          "tag": "#2YP8VCCU9",
+          "name": "SaTa Clan",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/B4U2h5ycmMnMooLv7xcRFdZRiaops1COwBYVTW3aZxs.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/B4U2h5ycmMnMooLv7xcRFdZRiaops1COwBYVTW3aZxs.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/B4U2h5ycmMnMooLv7xcRFdZRiaops1COwBYVTW3aZxs.png"
+          },
+          "clanLevel": 6,
+          "stars": 11,
+          "destructionPercentage": 84.8
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20221013T083314.000Z",
+        "teamSize": 5,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png"
+          },
+          "clanLevel": 10,
+          "attacks": 5,
+          "stars": 12,
+          "destructionPercentage": 83.6,
+          "expEarned": 120
+        },
+        "opponent": {
+          "tag": "#2G0G8JGVG",
+          "name": "KOKBULAK",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/j8ZFx_g5b172McZ5ZDUnKTjy_Lci_9TkzsXtuMn6Wm4.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/j8ZFx_g5b172McZ5ZDUnKTjy_Lci_9TkzsXtuMn6Wm4.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/j8ZFx_g5b172McZ5ZDUnKTjy_Lci_9TkzsXtuMn6Wm4.png"
+          },
+          "clanLevel": 1,
+          "stars": 10,
+          "destructionPercentage": 84.2
+        }
+      },
+      {
+        "result": "tie",
+        "endTime": "20221010T015325.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 1,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png"
+          },
+          "clanLevel": 10,
+          "attacks": 24,
+          "stars": 45,
+          "destructionPercentage": 120.066666,
+          "expEarned": 0
+        },
+        "opponent": {
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+          },
+          "clanLevel": 0,
+          "stars": 224,
+          "destructionPercentage": 0
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20220928T204720.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png"
+          },
+          "clanLevel": 10,
+          "attacks": 8,
+          "stars": 13,
+          "destructionPercentage": 40.4,
+          "expEarned": 53
+        },
+        "opponent": {
+          "tag": "#2YJGYUU8U",
+          "name": "noname warriors",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/-fJu5ILpBVdCLcjfw5sPtztATFHyTXD6VECtwPZ1Tpk.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/-fJu5ILpBVdCLcjfw5sPtztATFHyTXD6VECtwPZ1Tpk.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/-fJu5ILpBVdCLcjfw5sPtztATFHyTXD6VECtwPZ1Tpk.png"
+          },
+          "clanLevel": 8,
+          "stars": 29,
+          "destructionPercentage": 69.933334
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20220925T043731.000Z",
+        "teamSize": 5,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png"
+          },
+          "clanLevel": 10,
+          "attacks": 7,
+          "stars": 12,
+          "destructionPercentage": 85.2,
+          "expEarned": 83
+        },
+        "opponent": {
+          "tag": "#2L2LL88LY",
+          "name": "ph 2021",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/lFgwxXv51fWLGI09Iaef4BIyoTfenq1_GsA34jzFnAo.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/lFgwxXv51fWLGI09Iaef4BIyoTfenq1_GsA34jzFnAo.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/lFgwxXv51fWLGI09Iaef4BIyoTfenq1_GsA34jzFnAo.png"
+          },
+          "clanLevel": 10,
+          "stars": 13,
+          "destructionPercentage": 90.8
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20220923T042121.000Z",
+        "teamSize": 5,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png"
+          },
+          "clanLevel": 10,
+          "attacks": 8,
+          "stars": 13,
+          "destructionPercentage": 94.2,
+          "expEarned": 128
+        },
+        "opponent": {
+          "tag": "#VJCY9JLP",
+          "name": "™CHAMPIONS™",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/vjoWLjuHv9UJTcm0BTzUhkyfyMT0IVZIW0ZHEm_ZNT4.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/vjoWLjuHv9UJTcm0BTzUhkyfyMT0IVZIW0ZHEm_ZNT4.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/vjoWLjuHv9UJTcm0BTzUhkyfyMT0IVZIW0ZHEm_ZNT4.png"
+          },
+          "clanLevel": 14,
+          "stars": 6,
+          "destructionPercentage": 59.2
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20220921T044053.000Z",
+        "teamSize": 5,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png"
+          },
+          "clanLevel": 10,
+          "attacks": 8,
+          "stars": 13,
+          "destructionPercentage": 89.2,
+          "expEarned": 125
+        },
+        "opponent": {
+          "tag": "#PRQYVP8L",
+          "name": "ItsMoreFun.PH",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/j4T2tnjNKwTI9yDR73492H7IHB2MsP0VgYXiTO7GEnM.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/j4T2tnjNKwTI9yDR73492H7IHB2MsP0VgYXiTO7GEnM.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/j4T2tnjNKwTI9yDR73492H7IHB2MsP0VgYXiTO7GEnM.png"
+          },
+          "clanLevel": 9,
+          "stars": 12,
+          "destructionPercentage": 86.6
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20220919T051259.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png"
+          },
+          "clanLevel": 10,
+          "attacks": 12,
+          "stars": 25,
+          "destructionPercentage": 56.133335,
+          "expEarned": 150
+        },
+        "opponent": {
+          "tag": "#2YQGGJJQQ",
+          "name": "ae bất diệt",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/XATi4RPFJjZpqqUKSpooKcIb9oXJiR2_zLyjeDsxrhw.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/XATi4RPFJjZpqqUKSpooKcIb9oXJiR2_zLyjeDsxrhw.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/XATi4RPFJjZpqqUKSpooKcIb9oXJiR2_zLyjeDsxrhw.png"
+          },
+          "clanLevel": 8,
+          "stars": 21,
+          "destructionPercentage": 51.266666
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20220916T180428.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png"
+          },
+          "clanLevel": 10,
+          "attacks": 15,
+          "stars": 24,
+          "destructionPercentage": 58.666668,
+          "expEarned": 92
+        },
+        "opponent": {
+          "tag": "#VRVGCGUJ",
+          "name": "Gujarat Lions",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/Lo_KUaF8RSG49i9q0zrF-P6VEi-IFAFsPyKOuetZA08.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/Lo_KUaF8RSG49i9q0zrF-P6VEi-IFAFsPyKOuetZA08.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/Lo_KUaF8RSG49i9q0zrF-P6VEi-IFAFsPyKOuetZA08.png"
+          },
+          "clanLevel": 17,
+          "stars": 39,
+          "destructionPercentage": 95.333336
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20220914T180313.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png"
+          },
+          "clanLevel": 10,
+          "attacks": 21,
+          "stars": 38,
+          "destructionPercentage": 91.2,
+          "expEarned": 199
+        },
+        "opponent": {
+          "tag": "#PG9UGQVC",
+          "name": "the funny farm",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/czI9Ji67c8vNew8-jhZbGRUeD3_lxdQE-aSqOMb8pMY.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/czI9Ji67c8vNew8-jhZbGRUeD3_lxdQE-aSqOMb8pMY.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/czI9Ji67c8vNew8-jhZbGRUeD3_lxdQE-aSqOMb8pMY.png"
+          },
+          "clanLevel": 8,
+          "stars": 23,
+          "destructionPercentage": 67.2
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20220912T131047.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png"
+          },
+          "clanLevel": 10,
+          "attacks": 20,
+          "stars": 41,
+          "destructionPercentage": 93.2,
+          "expEarned": 209
+        },
+        "opponent": {
+          "tag": "#2L28C8CRR",
+          "name": "Killer Army",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/PNchD23ibsT90NImMJgAos7UzF-o4ZTi7iyufOGPpEM.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/PNchD23ibsT90NImMJgAos7UzF-o4ZTi7iyufOGPpEM.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/PNchD23ibsT90NImMJgAos7UzF-o4ZTi7iyufOGPpEM.png"
+          },
+          "clanLevel": 8,
+          "stars": 12,
+          "destructionPercentage": 40.2
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20220909T120153.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 1,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png"
+          },
+          "clanLevel": 10,
+          "attacks": 96,
+          "stars": 272,
+          "destructionPercentage": 541.13336,
+          "expEarned": 0
+        },
+        "opponent": {
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+          },
+          "clanLevel": 0,
+          "stars": 152,
+          "destructionPercentage": 0
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20220901T061805.000Z",
+        "teamSize": 30,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/guwefDArOw7x8wBnSbZE9KeMre-fcProQl_GS6IqbqQ.png"
+          },
+          "clanLevel": 10,
+          "attacks": 23,
+          "stars": 45,
+          "destructionPercentage": 56.833332,
+          "expEarned": 153
+        },
+        "opponent": {
+          "tag": "#2L0C02R82",
+          "name": "Panglima Perang",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/5-C9v-F3D6TWX33XjxJUWD6xlfEqCsoe1AsbeYOfaiw.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/5-C9v-F3D6TWX33XjxJUWD6xlfEqCsoe1AsbeYOfaiw.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/5-C9v-F3D6TWX33XjxJUWD6xlfEqCsoe1AsbeYOfaiw.png"
+          },
+          "clanLevel": 7,
+          "stars": 75,
+          "destructionPercentage": 89.23333
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20220829T063952.000Z",
+        "teamSize": 30,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png"
+          },
+          "clanLevel": 9,
+          "attacks": 21,
+          "stars": 37,
+          "destructionPercentage": 48.3,
+          "expEarned": 157
+        },
+        "opponent": {
+          "tag": "#U2VJLPUJ",
+          "name": "#Jai Shankar#",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/8e5Yhncmlxv3vKEfIVUAhimYV3dEjemEkrcIkDBJe5Q.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/8e5Yhncmlxv3vKEfIVUAhimYV3dEjemEkrcIkDBJe5Q.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/8e5Yhncmlxv3vKEfIVUAhimYV3dEjemEkrcIkDBJe5Q.png"
+          },
+          "clanLevel": 9,
+          "stars": 76,
+          "destructionPercentage": 92
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20220827T065546.000Z",
+        "teamSize": 30,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png"
+          },
+          "clanLevel": 9,
+          "attacks": 28,
+          "stars": 53,
+          "destructionPercentage": 69,
+          "expEarned": 218
+        },
+        "opponent": {
+          "tag": "#2YUYYVQLU",
+          "name": "CøCane",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/9h3DGzWU0ULdDXP08PGWe0EgIxr3imnePC7TS_wpSsc.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/9h3DGzWU0ULdDXP08PGWe0EgIxr3imnePC7TS_wpSsc.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/9h3DGzWU0ULdDXP08PGWe0EgIxr3imnePC7TS_wpSsc.png"
+          },
+          "clanLevel": 9,
+          "stars": 50,
+          "destructionPercentage": 62.233334
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20220823T104344.000Z",
+        "teamSize": 30,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png"
+          },
+          "clanLevel": 9,
+          "attacks": 29,
+          "stars": 63,
+          "destructionPercentage": 74.46667,
+          "expEarned": 189
+        },
+        "opponent": {
+          "tag": "#2L90VPPRP",
+          "name": "shz wolf",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/gH053WZ5SrT4uV-KBJeZ2dXBXmLMgExtxgrqrI5Q0Vg.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/gH053WZ5SrT4uV-KBJeZ2dXBXmLMgExtxgrqrI5Q0Vg.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/gH053WZ5SrT4uV-KBJeZ2dXBXmLMgExtxgrqrI5Q0Vg.png"
+          },
+          "clanLevel": 4,
+          "stars": 87,
+          "destructionPercentage": 97.666664
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20220821T072641.000Z",
+        "teamSize": 30,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png"
+          },
+          "clanLevel": 9,
+          "attacks": 29,
+          "stars": 65,
+          "destructionPercentage": 79.73333,
+          "expEarned": 254
+        },
+        "opponent": {
+          "tag": "#2PGG2RQPC",
+          "name": "Stigma union",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/6vxx8pKBQXNp7oyueSBp_lfyG0OL4t5wV642Xx2Xkaw.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/6vxx8pKBQXNp7oyueSBp_lfyG0OL4t5wV642Xx2Xkaw.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/6vxx8pKBQXNp7oyueSBp_lfyG0OL4t5wV642Xx2Xkaw.png"
+          },
+          "clanLevel": 9,
+          "stars": 37,
+          "destructionPercentage": 48.5
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20220818T104255.000Z",
+        "teamSize": 30,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png"
+          },
+          "clanLevel": 9,
+          "attacks": 34,
+          "stars": 67,
+          "destructionPercentage": 84.26667,
+          "expEarned": 310
+        },
+        "opponent": {
+          "tag": "#2LY9U82PR",
+          "name": "PUTR3SS",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/BYPmUTirMV6ik76J-Sy0Xya-8OzBDjun-P7_of7rUDI.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/BYPmUTirMV6ik76J-Sy0Xya-8OzBDjun-P7_of7rUDI.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/BYPmUTirMV6ik76J-Sy0Xya-8OzBDjun-P7_of7rUDI.png"
+          },
+          "clanLevel": 9,
+          "stars": 63,
+          "destructionPercentage": 79.53333
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20220816T095632.000Z",
+        "teamSize": 5,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png"
+          },
+          "clanLevel": 9,
+          "attacks": 8,
+          "stars": 14,
+          "destructionPercentage": 92.6,
+          "expEarned": 129
+        },
+        "opponent": {
+          "tag": "#2LCP82JYC",
+          "name": "DCH STAFF GROUP",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/ZtJRxOXpiADaNpRYuoMJkRJ_7DzA01nQugcAUcnO6Zk.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/ZtJRxOXpiADaNpRYuoMJkRJ_7DzA01nQugcAUcnO6Zk.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/ZtJRxOXpiADaNpRYuoMJkRJ_7DzA01nQugcAUcnO6Zk.png"
+          },
+          "clanLevel": 6,
+          "stars": 7,
+          "destructionPercentage": 51.2
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20220813T122534.000Z",
+        "teamSize": 25,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png"
+          },
+          "clanLevel": 9,
+          "attacks": 28,
+          "stars": 59,
+          "destructionPercentage": 86.16,
+          "expEarned": 217
+        },
+        "opponent": {
+          "tag": "#2Q00GLQQR",
+          "name": "TORRES EMPIRE",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/hDOXcZjxAZne1Y5CflZ4gZ2smDeNpXhKi2RCTkzhHL4.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/hDOXcZjxAZne1Y5CflZ4gZ2smDeNpXhKi2RCTkzhHL4.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/hDOXcZjxAZne1Y5CflZ4gZ2smDeNpXhKi2RCTkzhHL4.png"
+          },
+          "clanLevel": 8,
+          "stars": 60,
+          "destructionPercentage": 87
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20220811T103108.000Z",
+        "teamSize": 40,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png"
+          },
+          "clanLevel": 9,
+          "attacks": 44,
+          "stars": 87,
+          "destructionPercentage": 85.425,
+          "expEarned": 319
+        },
+        "opponent": {
+          "tag": "#9GG9LPU",
+          "name": "雄霸一方嘉特杰",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/Lsn_hrbbHQ-NaBdNXy-rjCzuaNj42XhpnuZllWDy3-I.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/Lsn_hrbbHQ-NaBdNXy-rjCzuaNj42XhpnuZllWDy3-I.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/Lsn_hrbbHQ-NaBdNXy-rjCzuaNj42XhpnuZllWDy3-I.png"
+          },
+          "clanLevel": 17,
+          "stars": 112,
+          "destructionPercentage": 95.125
+        }
+      },
+      {
+        "result": null,
+        "endTime": "20220809T105846.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 1,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png"
+          },
+          "clanLevel": 9,
+          "attacks": 102,
+          "stars": 246,
+          "destructionPercentage": 498.13333,
+          "expEarned": 0
+        },
+        "opponent": {
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+          },
+          "clanLevel": 0,
+          "stars": 183,
+          "destructionPercentage": 0
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20220801T082501.000Z",
+        "teamSize": 20,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png"
+          },
+          "clanLevel": 9,
+          "attacks": 19,
+          "stars": 44,
+          "destructionPercentage": 76.15,
+          "expEarned": 212
+        },
+        "opponent": {
+          "tag": "#2PUL8PGCL",
+          "name": "ELITE 42O",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/2KIlKNaCmSBo0tB4uvmcBfQ738RfGZtlif5ZSQS26dk.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/2KIlKNaCmSBo0tB4uvmcBfQ738RfGZtlif5ZSQS26dk.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/2KIlKNaCmSBo0tB4uvmcBfQ738RfGZtlif5ZSQS26dk.png"
+          },
+          "clanLevel": 7,
+          "stars": 29,
+          "destructionPercentage": 61.65
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20220728T211346.000Z",
+        "teamSize": 30,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png"
+          },
+          "clanLevel": 9,
+          "attacks": 25,
+          "stars": 47,
+          "destructionPercentage": 58.433334,
+          "expEarned": 128
+        },
+        "opponent": {
+          "tag": "#2L08G9QRL",
+          "name": "KURTLAR KONSEYİ",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/1t034ou-PFg_sd4g47IgybnXuK2XCVADRP3WK8YRkI4.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/1t034ou-PFg_sd4g47IgybnXuK2XCVADRP3WK8YRkI4.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/1t034ou-PFg_sd4g47IgybnXuK2XCVADRP3WK8YRkI4.png"
+          },
+          "clanLevel": 7,
+          "stars": 60,
+          "destructionPercentage": 67.566666
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20220726T203726.000Z",
+        "teamSize": 40,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png"
+          },
+          "clanLevel": 9,
+          "attacks": 22,
+          "stars": 48,
+          "destructionPercentage": 43.25,
+          "expEarned": 122
+        },
+        "opponent": {
+          "tag": "#JRUGLVV2",
+          "name": "KaLiTe LaZıM..",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/aSmmo26-FpoiyxIn3VAVQfYpvB9QhwRk0K9cpqqUmfU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/aSmmo26-FpoiyxIn3VAVQfYpvB9QhwRk0K9cpqqUmfU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/aSmmo26-FpoiyxIn3VAVQfYpvB9QhwRk0K9cpqqUmfU.png"
+          },
+          "clanLevel": 10,
+          "stars": 104,
+          "destructionPercentage": 92.75
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20220724T154947.000Z",
+        "teamSize": 40,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png"
+          },
+          "clanLevel": 9,
+          "attacks": 32,
+          "stars": 73,
+          "destructionPercentage": 66,
+          "expEarned": 206
+        },
+        "opponent": {
+          "tag": "#2LJC2JL2V",
+          "name": "Barishal Gamer",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/Bp734m1Ws8NzODAFSePHity-8yR8GnPJRKnIyXUmRvU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/Bp734m1Ws8NzODAFSePHity-8yR8GnPJRKnIyXUmRvU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/Bp734m1Ws8NzODAFSePHity-8yR8GnPJRKnIyXUmRvU.png"
+          },
+          "clanLevel": 7,
+          "stars": 80,
+          "destructionPercentage": 74.05
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20220722T113331.000Z",
+        "teamSize": 40,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png"
+          },
+          "clanLevel": 9,
+          "attacks": 34,
+          "stars": 86,
+          "destructionPercentage": 75.85,
+          "expEarned": 300
+        },
+        "opponent": {
+          "tag": "#QL22UURG",
+          "name": "식스패밀리",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/mnETD9vxO_FjKQ_YPahC0uDVMgirlSPVEc6v0CkAbqo.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/mnETD9vxO_FjKQ_YPahC0uDVMgirlSPVEc6v0CkAbqo.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/mnETD9vxO_FjKQ_YPahC0uDVMgirlSPVEc6v0CkAbqo.png"
+          },
+          "clanLevel": 7,
+          "stars": 35,
+          "destructionPercentage": 30.275
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20220720T105729.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png"
+          },
+          "clanLevel": 9,
+          "attacks": 19,
+          "stars": 39,
+          "destructionPercentage": 91.13333,
+          "expEarned": 185
+        },
+        "opponent": {
+          "tag": "#29G288JU2",
+          "name": "الوردة السوداء",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/347fEtMRZUaakFrA-kZ8n2NCrd8_SiooNyrJRUdZXuw.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/347fEtMRZUaakFrA-kZ8n2NCrd8_SiooNyrJRUdZXuw.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/347fEtMRZUaakFrA-kZ8n2NCrd8_SiooNyrJRUdZXuw.png"
+          },
+          "clanLevel": 8,
+          "stars": 39,
+          "destructionPercentage": 90.26667
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20220718T094753.000Z",
+        "teamSize": 10,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png"
+          },
+          "clanLevel": 9,
+          "attacks": 15,
+          "stars": 24,
+          "destructionPercentage": 80.7,
+          "expEarned": 116
+        },
+        "opponent": {
+          "tag": "#R9URUYRG",
+          "name": "✌وحوش السده ✌",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/wiMDct4sNSKucoucxVzCKE5-c3E9xqMLqGcaRw0yGrw.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/wiMDct4sNSKucoucxVzCKE5-c3E9xqMLqGcaRw0yGrw.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/wiMDct4sNSKucoucxVzCKE5-c3E9xqMLqGcaRw0yGrw.png"
+          },
+          "clanLevel": 12,
+          "stars": 25,
+          "destructionPercentage": 87.2
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20220716T093210.000Z",
+        "teamSize": 5,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png"
+          },
+          "clanLevel": 9,
+          "attacks": 7,
+          "stars": 14,
+          "destructionPercentage": 95.2,
+          "expEarned": 125
+        },
+        "opponent": {
+          "tag": "#2QUG0RLJ9",
+          "name": "Alone army",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/xofVjeqosge12_F5WhuEaBfmuwiG2rmrpu-vWA9bzXA.png"
+          },
+          "clanLevel": 3,
+          "stars": 0,
+          "destructionPercentage": 15.2
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20220714T075807.000Z",
+        "teamSize": 40,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png"
+          },
+          "clanLevel": 9,
+          "attacks": 11,
+          "stars": 30,
+          "destructionPercentage": 26.075,
+          "expEarned": 61
+        },
+        "opponent": {
+          "tag": "#28802GPCJ",
+          "name": "mangoes",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/sbWAhuBWEf0zWV4seNlqMGOjzRWNMQuWQAULYcyL_Ak.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/sbWAhuBWEf0zWV4seNlqMGOjzRWNMQuWQAULYcyL_Ak.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/sbWAhuBWEf0zWV4seNlqMGOjzRWNMQuWQAULYcyL_Ak.png"
+          },
+          "clanLevel": 13,
+          "stars": 71,
+          "destructionPercentage": 63.175
+        }
+      },
+      {
+        "result": null,
+        "endTime": "20220709T084458.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 1,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png"
+          },
+          "clanLevel": 9,
+          "attacks": 74,
+          "stars": 191,
+          "destructionPercentage": 403.66666,
+          "expEarned": 0
+        },
+        "opponent": {
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+          },
+          "clanLevel": 0,
+          "stars": 175,
+          "destructionPercentage": 0
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20210925T104346.000Z",
+        "teamSize": 5,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 7,
+          "stars": 9,
+          "destructionPercentage": 73.6,
+          "expEarned": 108
+        },
+        "opponent": {
+          "tag": "#2LLRV8PRP",
+          "name": "广哥游击队",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/qSKNpYBxc6bIsAETpUY3VZtd_-QkR9-HA7pMX8qYqsE.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/qSKNpYBxc6bIsAETpUY3VZtd_-QkR9-HA7pMX8qYqsE.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/qSKNpYBxc6bIsAETpUY3VZtd_-QkR9-HA7pMX8qYqsE.png"
+          },
+          "clanLevel": 3,
+          "stars": 7,
+          "destructionPercentage": 54.6
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20210921T131853.000Z",
+        "teamSize": 10,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 14,
+          "stars": 20,
+          "destructionPercentage": 75.8,
+          "expEarned": 70
+        },
+        "opponent": {
+          "tag": "#2LG9VR2Q8",
+          "name": "الملوك",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/htfA3prSDi-kOu7Fsca4I5bxUwGb8xMFhyneZouYd0Y.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/htfA3prSDi-kOu7Fsca4I5bxUwGb8xMFhyneZouYd0Y.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/htfA3prSDi-kOu7Fsca4I5bxUwGb8xMFhyneZouYd0Y.png"
+          },
+          "clanLevel": 2,
+          "stars": 22,
+          "destructionPercentage": 80.8
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20210919T120616.000Z",
+        "teamSize": 5,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 5,
+          "stars": 4,
+          "destructionPercentage": 60.8,
+          "expEarned": 10
+        },
+        "opponent": {
+          "tag": "#UG2PL88J",
+          "name": "☆SCARLET☆緋色☆",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/H51VdEWHyqWs2RN12XAfBDVtzL_UvEZx2a00E8pwJYU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/H51VdEWHyqWs2RN12XAfBDVtzL_UvEZx2a00E8pwJYU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/H51VdEWHyqWs2RN12XAfBDVtzL_UvEZx2a00E8pwJYU.png"
+          },
+          "clanLevel": 8,
+          "stars": 15,
+          "destructionPercentage": 100
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20210917T122939.000Z",
+        "teamSize": 5,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 9,
+          "stars": 11,
+          "destructionPercentage": 85.2,
+          "expEarned": 103
+        },
+        "opponent": {
+          "tag": "#2LPPVV2CV",
+          "name": "007",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/auobQ3X8GoMVROwMz3ovroSuqxZ-j6yK0dHkyJUhS44.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/auobQ3X8GoMVROwMz3ovroSuqxZ-j6yK0dHkyJUhS44.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/auobQ3X8GoMVROwMz3ovroSuqxZ-j6yK0dHkyJUhS44.png"
+          },
+          "clanLevel": 2,
+          "stars": 11,
+          "destructionPercentage": 79.8
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20210915T115302.000Z",
+        "teamSize": 5,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 9,
+          "stars": 11,
+          "destructionPercentage": 81.6,
+          "expEarned": 101
+        },
+        "opponent": {
+          "tag": "#2YRV8Y8CR",
+          "name": "q8",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/iaZej3QNcZFqhyZ6yDiWCZWZVLreA9mfUXcGQ7gOZ0Q.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/iaZej3QNcZFqhyZ6yDiWCZWZVLreA9mfUXcGQ7gOZ0Q.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/iaZej3QNcZFqhyZ6yDiWCZWZVLreA9mfUXcGQ7gOZ0Q.png"
+          },
+          "clanLevel": 1,
+          "stars": 8,
+          "destructionPercentage": 72.8
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20210913T102701.000Z",
+        "teamSize": 5,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 8,
+          "stars": 10,
+          "destructionPercentage": 80.2,
+          "expEarned": 104
+        },
+        "opponent": {
+          "tag": "#2YQ2C908G",
+          "name": "taatpadaygsatu",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/YZ9Xco0lmCmuDp-fIWpxHiiIxb_pnZQQ8NEiVK9CWH0.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/YZ9Xco0lmCmuDp-fIWpxHiiIxb_pnZQQ8NEiVK9CWH0.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/YZ9Xco0lmCmuDp-fIWpxHiiIxb_pnZQQ8NEiVK9CWH0.png"
+          },
+          "clanLevel": 6,
+          "stars": 0,
+          "destructionPercentage": 0
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20210911T100238.000Z",
+        "teamSize": 5,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 8,
+          "stars": 10,
+          "destructionPercentage": 84.6,
+          "expEarned": 105
+        },
+        "opponent": {
+          "tag": "#QRJRUGR0",
+          "name": "zstar marfia",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/LV80YeWOjc9PmqboAQNI_-4uGeLxi85-VZFJvdD5Q9Y.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/LV80YeWOjc9PmqboAQNI_-4uGeLxi85-VZFJvdD5Q9Y.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/LV80YeWOjc9PmqboAQNI_-4uGeLxi85-VZFJvdD5Q9Y.png"
+          },
+          "clanLevel": 4,
+          "stars": 10,
+          "destructionPercentage": 73.6
+        }
+      },
+      {
+        "result": "tie",
+        "endTime": "20210909T103800.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 1,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 26,
+          "stars": 72,
+          "destructionPercentage": 153.93333,
+          "expEarned": 0
+        },
+        "opponent": {
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+          },
+          "clanLevel": 0,
+          "stars": 128,
+          "destructionPercentage": 0
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20210827T074929.000Z",
+        "teamSize": 40,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 13,
+          "stars": 30,
+          "destructionPercentage": 28.175,
+          "expEarned": 55
+        },
+        "opponent": {
+          "tag": "#2LUQ9JVUQ",
+          "name": "wanted",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/ZVo4idpc83mGtc3XDIDxgRCnUshCnJdazDY8jhjvWVw.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/ZVo4idpc83mGtc3XDIDxgRCnUshCnJdazDY8jhjvWVw.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/ZVo4idpc83mGtc3XDIDxgRCnUshCnJdazDY8jhjvWVw.png"
+          },
+          "clanLevel": 2,
+          "stars": 45,
+          "destructionPercentage": 43.05
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20210821T091105.000Z",
+        "teamSize": 40,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 20,
+          "stars": 35,
+          "destructionPercentage": 32.775,
+          "expEarned": 124
+        },
+        "opponent": {
+          "tag": "#2P09LY98R",
+          "name": "No MERCY",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/eVozjOnK78_Seeg5aLQMzRi0Jg862G-KZ4TEsOP70xY.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/eVozjOnK78_Seeg5aLQMzRi0Jg862G-KZ4TEsOP70xY.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/eVozjOnK78_Seeg5aLQMzRi0Jg862G-KZ4TEsOP70xY.png"
+          },
+          "clanLevel": 7,
+          "stars": 24,
+          "destructionPercentage": 21.725
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20210817T135541.000Z",
+        "teamSize": 40,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 20,
+          "stars": 48,
+          "destructionPercentage": 41.525,
+          "expEarned": 83
+        },
+        "opponent": {
+          "tag": "#2P929JJU9",
+          "name": "royalgorkha",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/vZwLmvTzZMNF9LZ_NpGub48FAifIPEplVPYT9dmw1g8.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/vZwLmvTzZMNF9LZ_NpGub48FAifIPEplVPYT9dmw1g8.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/vZwLmvTzZMNF9LZ_NpGub48FAifIPEplVPYT9dmw1g8.png"
+          },
+          "clanLevel": 5,
+          "stars": 71,
+          "destructionPercentage": 64.25
+        }
+      },
+      {
+        "result": "tie",
+        "endTime": "20210810T154408.000Z",
+        "teamSize": 30,
+        "attacksPerMember": 1,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 41,
+          "stars": 76,
+          "destructionPercentage": 98.23333,
+          "expEarned": 0
+        },
+        "opponent": {
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+          },
+          "clanLevel": 0,
+          "stars": 344,
+          "destructionPercentage": 0
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20210802T091744.000Z",
+        "teamSize": 30,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 14,
+          "stars": 21,
+          "destructionPercentage": 29.633333,
+          "expEarned": 32
+        },
+        "opponent": {
+          "tag": "#2P2YLPPQJ",
+          "name": "The Alpha Wolf",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/gEsehsswwyDXPdPs68jt2s2JrV-zCOJ_ooRlPS5bxbE.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/gEsehsswwyDXPdPs68jt2s2JrV-zCOJ_ooRlPS5bxbE.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/gEsehsswwyDXPdPs68jt2s2JrV-zCOJ_ooRlPS5bxbE.png"
+          },
+          "clanLevel": 5,
+          "stars": 77,
+          "destructionPercentage": 90.5
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20210729T132601.000Z",
+        "teamSize": 25,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 15,
+          "stars": 26,
+          "destructionPercentage": 40.16,
+          "expEarned": 53
+        },
+        "opponent": {
+          "tag": "#C2PGG0VU",
+          "name": "⚡⚡WiN cLaN⚡⚡",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/xvNPzJSX8d2OyjgVnuFFtoLP9NmVzzgkqzKgHH_WJPA.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/xvNPzJSX8d2OyjgVnuFFtoLP9NmVzzgkqzKgHH_WJPA.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/xvNPzJSX8d2OyjgVnuFFtoLP9NmVzzgkqzKgHH_WJPA.png"
+          },
+          "clanLevel": 8,
+          "stars": 69,
+          "destructionPercentage": 96.72
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20210726T001457.000Z",
+        "teamSize": 30,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 18,
+          "stars": 34,
+          "destructionPercentage": 43.5,
+          "expEarned": 44
+        },
+        "opponent": {
+          "tag": "#2PRUGCY0P",
+          "name": "一群演员",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/GKxrleQYzYAe4c1mVzr64JlCpe2EKzE92jhHBxB4yLw.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/GKxrleQYzYAe4c1mVzr64JlCpe2EKzE92jhHBxB4yLw.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/GKxrleQYzYAe4c1mVzr64JlCpe2EKzE92jhHBxB4yLw.png"
+          },
+          "clanLevel": 4,
+          "stars": 60,
+          "destructionPercentage": 70.03333
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20210723T005751.000Z",
+        "teamSize": 20,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 12,
+          "stars": 22,
+          "destructionPercentage": 40.8,
+          "expEarned": 18
+        },
+        "opponent": {
+          "tag": "#2PLJPVLUG",
+          "name": "destemidos",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/cQ-Ho3wkwUCC5eYKjHrCzkMq7XxyfTfUQNxOoL3bOVA.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/cQ-Ho3wkwUCC5eYKjHrCzkMq7XxyfTfUQNxOoL3bOVA.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/cQ-Ho3wkwUCC5eYKjHrCzkMq7XxyfTfUQNxOoL3bOVA.png"
+          },
+          "clanLevel": 4,
+          "stars": 41,
+          "destructionPercentage": 72.55
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20210720T133741.000Z",
+        "teamSize": 20,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 16,
+          "stars": 18,
+          "destructionPercentage": 38.45,
+          "expEarned": 31
+        },
+        "opponent": {
+          "tag": "#2YV0CCJ22",
+          "name": "长城守卫军",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/BMGRK0NOh5yea3oWBIGPM7iH8R-N7uVO5ClNQIesjEI.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/BMGRK0NOh5yea3oWBIGPM7iH8R-N7uVO5ClNQIesjEI.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/BMGRK0NOh5yea3oWBIGPM7iH8R-N7uVO5ClNQIesjEI.png"
+          },
+          "clanLevel": 4,
+          "stars": 43,
+          "destructionPercentage": 74.05
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20210718T052011.000Z",
+        "teamSize": 40,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 29,
+          "stars": 53,
+          "destructionPercentage": 48.2,
+          "expEarned": 80
+        },
+        "opponent": {
+          "tag": "#J2L02JQ",
+          "name": "西路帮",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/rjmABKTQGXd2yLK-nR7ggq0QogOAITLxZ_WCCiYY2fI.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/rjmABKTQGXd2yLK-nR7ggq0QogOAITLxZ_WCCiYY2fI.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/rjmABKTQGXd2yLK-nR7ggq0QogOAITLxZ_WCCiYY2fI.png"
+          },
+          "clanLevel": 18,
+          "stars": 111,
+          "destructionPercentage": 94.4
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20210714T202751.000Z",
+        "teamSize": 25,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 15,
+          "stars": 27,
+          "destructionPercentage": 42.04,
+          "expEarned": 95
+        },
+        "opponent": {
+          "tag": "#2YR8CQR2V",
+          "name": "DEVIL HUNTER",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/ftjGPqjHq4TOan9-m-aNDy1kNw6iIV_x2C2NlUxGznk.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/ftjGPqjHq4TOan9-m-aNDy1kNw6iIV_x2C2NlUxGznk.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/ftjGPqjHq4TOan9-m-aNDy1kNw6iIV_x2C2NlUxGznk.png"
+          },
+          "clanLevel": 5,
+          "stars": 7,
+          "destructionPercentage": 12.96
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20210712T091122.000Z",
+        "teamSize": 20,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 20,
+          "stars": 44,
+          "destructionPercentage": 76.25,
+          "expEarned": 151
+        },
+        "opponent": {
+          "tag": "#2L9VPUVPQ",
+          "name": "栢羽",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/DADJ8FTqNPv17Sgav419sQ_Xq14h7bOeOJnrZxM2o-A.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/DADJ8FTqNPv17Sgav419sQ_Xq14h7bOeOJnrZxM2o-A.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/DADJ8FTqNPv17Sgav419sQ_Xq14h7bOeOJnrZxM2o-A.png"
+          },
+          "clanLevel": 3,
+          "stars": 19,
+          "destructionPercentage": 40
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20210709T152953.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 1,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 72,
+          "stars": 262,
+          "destructionPercentage": 450.06668,
+          "expEarned": 0
+        },
+        "opponent": {
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+          },
+          "clanLevel": 0,
+          "stars": 81,
+          "destructionPercentage": 0
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20210701T103242.000Z",
+        "teamSize": 10,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 9,
+          "stars": 21,
+          "destructionPercentage": 71.7,
+          "expEarned": 68
+        },
+        "opponent": {
+          "tag": "#2LLCYYCCV",
+          "name": "это Питер",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/fwhicQ4klpyHYvlwIuLnyyXzDM5wrC4JvH8zHaqa-OI.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/fwhicQ4klpyHYvlwIuLnyyXzDM5wrC4JvH8zHaqa-OI.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/fwhicQ4klpyHYvlwIuLnyyXzDM5wrC4JvH8zHaqa-OI.png"
+          },
+          "clanLevel": 3,
+          "stars": 28,
+          "destructionPercentage": 94.7
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20210629T105736.000Z",
+        "teamSize": 10,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 8,
+          "stars": 16,
+          "destructionPercentage": 59.2,
+          "expEarned": 51
+        },
+        "opponent": {
+          "tag": "#Y0Q209L0",
+          "name": "لمتنه حلوه",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/ea2d-ODUIp3HNSFAEqt4Mk5KlCl07PvvPLa_lsVMXow.png"
+          },
+          "clanLevel": 7,
+          "stars": 27,
+          "destructionPercentage": 97.6
+        }
+      },
+      {
+        "result": "tie",
+        "endTime": "20210609T172804.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 1,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 31,
+          "stars": 81,
+          "destructionPercentage": 180.8,
+          "expEarned": 0
+        },
+        "opponent": {
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+          },
+          "clanLevel": 0,
+          "stars": 107,
+          "destructionPercentage": 0
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20210526T224343.000Z",
+        "teamSize": 40,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 9,
+          "stars": 20,
+          "destructionPercentage": 18.35,
+          "expEarned": 42
+        },
+        "opponent": {
+          "tag": "#2LQ92YY92",
+          "name": "Kambat",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/_FqLf6FDO0dxJ26GeaomWKtJvRnxaANTI30G_7U73l4.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/_FqLf6FDO0dxJ26GeaomWKtJvRnxaANTI30G_7U73l4.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/_FqLf6FDO0dxJ26GeaomWKtJvRnxaANTI30G_7U73l4.png"
+          },
+          "clanLevel": 1,
+          "stars": 71,
+          "destructionPercentage": 62.65
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20210524T093641.000Z",
+        "teamSize": 40,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 8,
+          "stars": 14,
+          "destructionPercentage": 13.575,
+          "expEarned": 29
+        },
+        "opponent": {
+          "tag": "#CU98GLVQ",
+          "name": "KHÁNH HẢI Clan",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/XUm-mMry1e0ifepccsfU3dx-S7aBfFCFRGliH9SYsmg.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/XUm-mMry1e0ifepccsfU3dx-S7aBfFCFRGliH9SYsmg.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/XUm-mMry1e0ifepccsfU3dx-S7aBfFCFRGliH9SYsmg.png"
+          },
+          "clanLevel": 6,
+          "stars": 44,
+          "destructionPercentage": 40.325
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20210308T111103.000Z",
+        "teamSize": 40,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 17,
+          "stars": 35,
+          "destructionPercentage": 33.175,
+          "expEarned": 52
+        },
+        "opponent": {
+          "tag": "#299Q8QVCP",
+          "name": "中国特战区",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/h-Rram7bayHSuYehN6q-mSPLGc_FMHB8-918zVu3kKE.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/h-Rram7bayHSuYehN6q-mSPLGc_FMHB8-918zVu3kKE.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/h-Rram7bayHSuYehN6q-mSPLGc_FMHB8-918zVu3kKE.png"
+          },
+          "clanLevel": 5,
+          "stars": 98,
+          "destructionPercentage": 86.275
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20210306T093124.000Z",
+        "teamSize": 30,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 17,
+          "stars": 44,
+          "destructionPercentage": 51.233334,
+          "expEarned": 107
+        },
+        "opponent": {
+          "tag": "#29CGYVJUV",
+          "name": "즐거운 오버홀",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/ksCO5T2q1H7TNjxZj1uQigwLbSoLGoNcnzcN8HvW_TY.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/ksCO5T2q1H7TNjxZj1uQigwLbSoLGoNcnzcN8HvW_TY.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/ksCO5T2q1H7TNjxZj1uQigwLbSoLGoNcnzcN8HvW_TY.png"
+          },
+          "clanLevel": 3,
+          "stars": 33,
+          "destructionPercentage": 39.733334
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20210224T144114.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 6,
+          "stars": 15,
+          "destructionPercentage": 36.333332,
+          "expEarned": 42
+        },
+        "opponent": {
+          "tag": "#2YYGVGR0U",
+          "name": "KADAPARAM",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/BMGRK0NOh5yea3oWBIGPM7iH8R-N7uVO5ClNQIesjEI.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/BMGRK0NOh5yea3oWBIGPM7iH8R-N7uVO5ClNQIesjEI.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/BMGRK0NOh5yea3oWBIGPM7iH8R-N7uVO5ClNQIesjEI.png"
+          },
+          "clanLevel": 4,
+          "stars": 43,
+          "destructionPercentage": 97.46667
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20210220T085235.000Z",
+        "teamSize": 10,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 5,
+          "stars": 11,
+          "destructionPercentage": 39.7,
+          "expEarned": 10
+        },
+        "opponent": {
+          "tag": "#C9VQ8QQJ",
+          "name": "CASPIAN SEA",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/oDxvnq4ib6e8-msitmVTgwcGO1E4eOvH8BPBfsUSrts.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/oDxvnq4ib6e8-msitmVTgwcGO1E4eOvH8BPBfsUSrts.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/oDxvnq4ib6e8-msitmVTgwcGO1E4eOvH8BPBfsUSrts.png"
+          },
+          "clanLevel": 4,
+          "stars": 22,
+          "destructionPercentage": 79.3
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20210216T150913.000Z",
+        "teamSize": 5,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/WBwu6NMtEQpqvMwAV4xKMSpR404CfWWTPNPDVz0XZ0k.png"
+          },
+          "clanLevel": 6,
+          "attacks": 5,
+          "stars": 11,
+          "destructionPercentage": 79.8,
+          "expEarned": 94
+        },
+        "opponent": {
+          "tag": "#2YRQU9LUC",
+          "name": "❤❤عشق❤❤",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/t5tI1UGfJwLtXRvTrjnRddWOV0YXHq6XliIV_6nJngA.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/t5tI1UGfJwLtXRvTrjnRddWOV0YXHq6XliIV_6nJngA.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/t5tI1UGfJwLtXRvTrjnRddWOV0YXHq6XliIV_6nJngA.png"
+          },
+          "clanLevel": 1,
+          "stars": 0,
+          "destructionPercentage": 0
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20210214T144053.000Z",
+        "teamSize": 10,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png"
+          },
+          "clanLevel": 5,
+          "attacks": 6,
+          "stars": 14,
+          "destructionPercentage": 49.8,
+          "expEarned": 37
+        },
+        "opponent": {
+          "tag": "#2PV222PY2",
+          "name": "赵湘",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/ZR2qF-OuWEVK5HsVAo8cl9ZUfjB6ePlt8oPypWrWrRw.png"
+          },
+          "clanLevel": 4,
+          "stars": 25,
+          "destructionPercentage": 90.1
+        }
+      },
+      {
+        "result": null,
+        "endTime": "20210211T135506.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 1,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png"
+          },
+          "clanLevel": 5,
+          "attacks": 32,
+          "stars": 108,
+          "destructionPercentage": 189.53334,
+          "expEarned": 0
+        },
+        "opponent": {
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+          },
+          "clanLevel": 0,
+          "stars": 109,
+          "destructionPercentage": 0
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20210126T201851.000Z",
+        "teamSize": 20,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png"
+          },
+          "clanLevel": 5,
+          "attacks": 23,
+          "stars": 58,
+          "destructionPercentage": 98.75,
+          "expEarned": 146
+        },
+        "opponent": {
+          "tag": "#2YV0CYRPL",
+          "name": "Бунгала 2.0",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/s7V4dK9_rAJtfmdUpZ9so7NJd9UADYzdjgHYnLgRjhQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/s7V4dK9_rAJtfmdUpZ9so7NJd9UADYzdjgHYnLgRjhQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/s7V4dK9_rAJtfmdUpZ9so7NJd9UADYzdjgHYnLgRjhQ.png"
+          },
+          "clanLevel": 4,
+          "stars": 58,
+          "destructionPercentage": 98.55
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20210122T151408.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png"
+          },
+          "clanLevel": 5,
+          "attacks": 17,
+          "stars": 43,
+          "destructionPercentage": 98.8,
+          "expEarned": 122
+        },
+        "opponent": {
+          "tag": "#2LYJJ8V8Y",
+          "name": "Pravda",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/cytpd2UOCX-b4aEXLw8bRmGcX_UNkNXaSNLxx4Q7P-M.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/cytpd2UOCX-b4aEXLw8bRmGcX_UNkNXaSNLxx4Q7P-M.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/cytpd2UOCX-b4aEXLw8bRmGcX_UNkNXaSNLxx4Q7P-M.png"
+          },
+          "clanLevel": 1,
+          "stars": 11,
+          "destructionPercentage": 30.933332
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20210120T133533.000Z",
+        "teamSize": 20,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png"
+          },
+          "clanLevel": 5,
+          "attacks": 27,
+          "stars": 54,
+          "destructionPercentage": 95.3,
+          "expEarned": 97
+        },
+        "opponent": {
+          "tag": "#2YQV2J8CV",
+          "name": "DEATH DEALERS!!",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/6FNstcxgc9MqaAI2-xhQ2sC9d8ojDJVQQmMZhAX8I9U.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/6FNstcxgc9MqaAI2-xhQ2sC9d8ojDJVQQmMZhAX8I9U.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/6FNstcxgc9MqaAI2-xhQ2sC9d8ojDJVQQmMZhAX8I9U.png"
+          },
+          "clanLevel": 3,
+          "stars": 58,
+          "destructionPercentage": 97.05
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20210118T060354.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png"
+          },
+          "clanLevel": 5,
+          "attacks": 24,
+          "stars": 43,
+          "destructionPercentage": 97.73333,
+          "expEarned": 120
+        },
+        "opponent": {
+          "tag": "#2YC8QURPL",
+          "name": "小小胡灵可笑可笑",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/I2tBGtg4oV5WUcnZU1CD2S3q8uJ4jRvrDYsxKM9e2Pc.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/I2tBGtg4oV5WUcnZU1CD2S3q8uJ4jRvrDYsxKM9e2Pc.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/I2tBGtg4oV5WUcnZU1CD2S3q8uJ4jRvrDYsxKM9e2Pc.png"
+          },
+          "clanLevel": 1,
+          "stars": 6,
+          "destructionPercentage": 24.8
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20210114T142136.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png"
+          },
+          "clanLevel": 5,
+          "attacks": 17,
+          "stars": 31,
+          "destructionPercentage": 74.6,
+          "expEarned": 68
+        },
+        "opponent": {
+          "tag": "#2L0QVC09Y",
+          "name": "4 in 1 beurt",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/AEaHm0FmstsRRGTqajAhcz1Mi7ceR2ys7g5PL7p2mvk.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/AEaHm0FmstsRRGTqajAhcz1Mi7ceR2ys7g5PL7p2mvk.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/AEaHm0FmstsRRGTqajAhcz1Mi7ceR2ys7g5PL7p2mvk.png"
+          },
+          "clanLevel": 1,
+          "stars": 38,
+          "destructionPercentage": 85.73333
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20210110T203833.000Z",
+        "teamSize": 10,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png"
+          },
+          "clanLevel": 5,
+          "attacks": 8,
+          "stars": 10,
+          "destructionPercentage": 41,
+          "expEarned": 21
+        },
+        "opponent": {
+          "tag": "#29J0L2YQ0",
+          "name": "بروبکس",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/nrhmU993__ZJNZUx2QMg6LFwXMWCnr92vZdVkwn5nXQ.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/nrhmU993__ZJNZUx2QMg6LFwXMWCnr92vZdVkwn5nXQ.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/nrhmU993__ZJNZUx2QMg6LFwXMWCnr92vZdVkwn5nXQ.png"
+          },
+          "clanLevel": 2,
+          "stars": 27,
+          "destructionPercentage": 93.2
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20210108T104545.000Z",
+        "teamSize": 5,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png"
+          },
+          "clanLevel": 5,
+          "attacks": 6,
+          "stars": 12,
+          "destructionPercentage": 88.4,
+          "expEarned": 108
+        },
+        "opponent": {
+          "tag": "#2YLG28GGY",
+          "name": "Diamond_Clan",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/g4Kc12uP06Uy8DsxWUrNjHgDiMhjiTNddS-I8wK2fMM.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/g4Kc12uP06Uy8DsxWUrNjHgDiMhjiTNddS-I8wK2fMM.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/g4Kc12uP06Uy8DsxWUrNjHgDiMhjiTNddS-I8wK2fMM.png"
+          },
+          "clanLevel": 1,
+          "stars": 11,
+          "destructionPercentage": 79.8
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20210101T170236.000Z",
+        "teamSize": 5,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png"
+          },
+          "clanLevel": 5,
+          "attacks": 6,
+          "stars": 14,
+          "destructionPercentage": 99.8,
+          "expEarned": 107
+        },
+        "opponent": {
+          "tag": "#20J9JG99J",
+          "name": "KAYILAR",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/XPC-6ZMYYF6pvR0SIkXGTMd2dXKak6wEyPdDGB0JFyY.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/XPC-6ZMYYF6pvR0SIkXGTMd2dXKak6wEyPdDGB0JFyY.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/XPC-6ZMYYF6pvR0SIkXGTMd2dXKak6wEyPdDGB0JFyY.png"
+          },
+          "clanLevel": 6,
+          "stars": 13,
+          "destructionPercentage": 93.2
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20201230T165040.000Z",
+        "teamSize": 5,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png"
+          },
+          "clanLevel": 5,
+          "attacks": 6,
+          "stars": 11,
+          "destructionPercentage": 88.2,
+          "expEarned": 57
+        },
+        "opponent": {
+          "tag": "#2L22LL0LG",
+          "name": "UNION PACIFIC",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/UvsbKRb0WP9QxKQ4NDm825lRYwKnIyqdtkgPbeSb-o8.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/UvsbKRb0WP9QxKQ4NDm825lRYwKnIyqdtkgPbeSb-o8.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/UvsbKRb0WP9QxKQ4NDm825lRYwKnIyqdtkgPbeSb-o8.png"
+          },
+          "clanLevel": 1,
+          "stars": 13,
+          "destructionPercentage": 87
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20200820T073854.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png"
+          },
+          "clanLevel": 5,
+          "attacks": 5,
+          "stars": 7,
+          "destructionPercentage": 22.8,
+          "expEarned": 28
+        },
+        "opponent": {
+          "tag": "#CGLLLJ9G",
+          "name": "Indian Legends",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/yBkusYyJAb81XnyYO5A1yW46mjYMdcDpOaMAQ1qlq7Y.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/yBkusYyJAb81XnyYO5A1yW46mjYMdcDpOaMAQ1qlq7Y.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/yBkusYyJAb81XnyYO5A1yW46mjYMdcDpOaMAQ1qlq7Y.png"
+          },
+          "clanLevel": 8,
+          "stars": 43,
+          "destructionPercentage": 96.066666
+        }
+      },
+      {
+        "result": null,
+        "endTime": "20200810T065707.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 1,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png"
+          },
+          "clanLevel": 5,
+          "attacks": 68,
+          "stars": 213,
+          "destructionPercentage": 394,
+          "expEarned": 0
+        },
+        "opponent": {
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+          },
+          "clanLevel": 0,
+          "stars": 87,
+          "destructionPercentage": 0
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20200731T102402.000Z",
+        "teamSize": 5,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png"
+          },
+          "clanLevel": 5,
+          "attacks": 7,
+          "stars": 10,
+          "destructionPercentage": 74.6,
+          "expEarned": 113
+        },
+        "opponent": {
+          "tag": "#YLQC0P8Q",
+          "name": "Kings of Kangra",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/lf1v_f818MilX-ohSvKMd289vWhG1acM_enZHmsuAJs.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/lf1v_f818MilX-ohSvKMd289vWhG1acM_enZHmsuAJs.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/lf1v_f818MilX-ohSvKMd289vWhG1acM_enZHmsuAJs.png"
+          },
+          "clanLevel": 15,
+          "stars": 0,
+          "destructionPercentage": 9.2
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20200725T063945.000Z",
+        "teamSize": 10,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png"
+          },
+          "clanLevel": 5,
+          "attacks": 12,
+          "stars": 17,
+          "destructionPercentage": 67.6,
+          "expEarned": 59
+        },
+        "opponent": {
+          "tag": "#298YUJR8Y",
+          "name": "dravalky",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/gijPELgXtYr5nqRka22GFafH9bCeLpca7PCKavyZKvw.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/gijPELgXtYr5nqRka22GFafH9bCeLpca7PCKavyZKvw.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/gijPELgXtYr5nqRka22GFafH9bCeLpca7PCKavyZKvw.png"
+          },
+          "clanLevel": 4,
+          "stars": 19,
+          "destructionPercentage": 66.3
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20200720T194425.000Z",
+        "teamSize": 10,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png"
+          },
+          "clanLevel": 5,
+          "attacks": 11,
+          "stars": 16,
+          "destructionPercentage": 64.6,
+          "expEarned": 38
+        },
+        "opponent": {
+          "tag": "#LJRYQRRR",
+          "name": "Force Awakens",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/ERNhN9M0LjZwyJMGE5jY7C-AZ49A5HXrz3N7NIaYea8.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/ERNhN9M0LjZwyJMGE5jY7C-AZ49A5HXrz3N7NIaYea8.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/ERNhN9M0LjZwyJMGE5jY7C-AZ49A5HXrz3N7NIaYea8.png"
+          },
+          "clanLevel": 11,
+          "stars": 24,
+          "destructionPercentage": 90.4
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20200715T104121.000Z",
+        "teamSize": 10,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png"
+          },
+          "clanLevel": 5,
+          "attacks": 14,
+          "stars": 18,
+          "destructionPercentage": 69,
+          "expEarned": 78
+        },
+        "opponent": {
+          "tag": "#R2QGJ0V9",
+          "name": "Chutiyapa",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/7snpZKymJvaN0dXoHzOpw_p4lYVJt30LRhlmuKKNbjM.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/7snpZKymJvaN0dXoHzOpw_p4lYVJt30LRhlmuKKNbjM.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/7snpZKymJvaN0dXoHzOpw_p4lYVJt30LRhlmuKKNbjM.png"
+          },
+          "clanLevel": 7,
+          "stars": 24,
+          "destructionPercentage": 92.2
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20200712T201737.000Z",
+        "teamSize": 10,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png"
+          },
+          "clanLevel": 5,
+          "attacks": 8,
+          "stars": 13,
+          "destructionPercentage": 46.7,
+          "expEarned": 36
+        },
+        "opponent": {
+          "tag": "#8YY229L9",
+          "name": "Team Try Hard",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/xu2QAL2RoGztuMk-KJAkRU1HKct-J52goB6EneKpCho.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/xu2QAL2RoGztuMk-KJAkRU1HKct-J52goB6EneKpCho.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/xu2QAL2RoGztuMk-KJAkRU1HKct-J52goB6EneKpCho.png"
+          },
+          "clanLevel": 7,
+          "stars": 25,
+          "destructionPercentage": 94.5
+        }
+      },
+      {
+        "result": null,
+        "endTime": "20200710T122408.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 1,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png"
+          },
+          "clanLevel": 5,
+          "attacks": 63,
+          "stars": 174,
+          "destructionPercentage": 338.53333,
+          "expEarned": 0
+        },
+        "opponent": {
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+          },
+          "clanLevel": 0,
+          "stars": 90,
+          "destructionPercentage": 0
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20200613T151347.000Z",
+        "teamSize": 5,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png"
+          },
+          "clanLevel": 5,
+          "attacks": 5,
+          "stars": 6,
+          "destructionPercentage": 52,
+          "expEarned": 22
+        },
+        "opponent": {
+          "tag": "#2YYV0RUL9",
+          "name": "....",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/ma6fWdXouafAR-3N5J0iHEBSpIsE51B3DnRod1ciqrA.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/ma6fWdXouafAR-3N5J0iHEBSpIsE51B3DnRod1ciqrA.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/ma6fWdXouafAR-3N5J0iHEBSpIsE51B3DnRod1ciqrA.png"
+          },
+          "clanLevel": 1,
+          "stars": 8,
+          "destructionPercentage": 67.4
+        }
+      },
+      {
+        "result": null,
+        "endTime": "20200609T203951.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 1,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/f-XEuv_IejhOO6HS1mndawBri7TgraQ16HQj_A8ycOU.png"
+          },
+          "clanLevel": 5,
+          "attacks": 72,
+          "stars": 188,
+          "destructionPercentage": 362.8,
+          "expEarned": 0
+        },
+        "opponent": {
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+          },
+          "clanLevel": 0,
+          "stars": 115,
+          "destructionPercentage": 0
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20200601T154935.000Z",
+        "teamSize": 10,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/IUAowpnYJo6zk1-6w22b3jaUPuwh1xfHCm5Gkz7h2HU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/IUAowpnYJo6zk1-6w22b3jaUPuwh1xfHCm5Gkz7h2HU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/IUAowpnYJo6zk1-6w22b3jaUPuwh1xfHCm5Gkz7h2HU.png"
+          },
+          "clanLevel": 4,
+          "attacks": 13,
+          "stars": 21,
+          "destructionPercentage": 81.7,
+          "expEarned": 71
+        },
+        "opponent": {
+          "tag": "#LY99G0YQ",
+          "name": "Thrillers",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/Jo3SLa406-2fk9pjZkyAzY40w00AB2u4vVqIuHh7gSA.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/Jo3SLa406-2fk9pjZkyAzY40w00AB2u4vVqIuHh7gSA.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/Jo3SLa406-2fk9pjZkyAzY40w00AB2u4vVqIuHh7gSA.png"
+          },
+          "clanLevel": 9,
+          "stars": 26,
+          "destructionPercentage": 94
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20200530T080625.000Z",
+        "teamSize": 10,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/IUAowpnYJo6zk1-6w22b3jaUPuwh1xfHCm5Gkz7h2HU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/IUAowpnYJo6zk1-6w22b3jaUPuwh1xfHCm5Gkz7h2HU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/IUAowpnYJo6zk1-6w22b3jaUPuwh1xfHCm5Gkz7h2HU.png"
+          },
+          "clanLevel": 4,
+          "attacks": 12,
+          "stars": 25,
+          "destructionPercentage": 92.1,
+          "expEarned": 125
+        },
+        "opponent": {
+          "tag": "#22LLJLUV2",
+          "name": "UZB BEKLARI",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/RufjlfvofK8u6Jn4fvHRdLveGOKG2hmVyUBbvI3fAUg.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/RufjlfvofK8u6Jn4fvHRdLveGOKG2hmVyUBbvI3fAUg.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/RufjlfvofK8u6Jn4fvHRdLveGOKG2hmVyUBbvI3fAUg.png"
+          },
+          "clanLevel": 7,
+          "stars": 6,
+          "destructionPercentage": 26
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20200528T081018.000Z",
+        "teamSize": 10,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/IUAowpnYJo6zk1-6w22b3jaUPuwh1xfHCm5Gkz7h2HU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/IUAowpnYJo6zk1-6w22b3jaUPuwh1xfHCm5Gkz7h2HU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/IUAowpnYJo6zk1-6w22b3jaUPuwh1xfHCm5Gkz7h2HU.png"
+          },
+          "clanLevel": 4,
+          "attacks": 12,
+          "stars": 9,
+          "destructionPercentage": 55.5,
+          "expEarned": 35
+        },
+        "opponent": {
+          "tag": "#28UP89G9Y",
+          "name": "BD PLAYER",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/jH4A427v9SKzegJNeWaQegoFB0m9VBH-ZXzXCPujFF4.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/jH4A427v9SKzegJNeWaQegoFB0m9VBH-ZXzXCPujFF4.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/jH4A427v9SKzegJNeWaQegoFB0m9VBH-ZXzXCPujFF4.png"
+          },
+          "clanLevel": 7,
+          "stars": 25,
+          "destructionPercentage": 87.3
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20200526T081602.000Z",
+        "teamSize": 10,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/IUAowpnYJo6zk1-6w22b3jaUPuwh1xfHCm5Gkz7h2HU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/IUAowpnYJo6zk1-6w22b3jaUPuwh1xfHCm5Gkz7h2HU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/IUAowpnYJo6zk1-6w22b3jaUPuwh1xfHCm5Gkz7h2HU.png"
+          },
+          "clanLevel": 4,
+          "attacks": 11,
+          "stars": 18,
+          "destructionPercentage": 68.2,
+          "expEarned": 106
+        },
+        "opponent": {
+          "tag": "#2PJLL22RQ",
+          "name": "friends",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/bz5WiGIcIbqBDBCnnKQ_5627o_dPPoj5lDJNEmkEZKU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/bz5WiGIcIbqBDBCnnKQ_5627o_dPPoj5lDJNEmkEZKU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/bz5WiGIcIbqBDBCnnKQ_5627o_dPPoj5lDJNEmkEZKU.png"
+          },
+          "clanLevel": 3,
+          "stars": 4,
+          "destructionPercentage": 21.1
+        }
+      },
+      {
+        "result": "lose",
+        "endTime": "20200520T153812.000Z",
+        "teamSize": 30,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/IUAowpnYJo6zk1-6w22b3jaUPuwh1xfHCm5Gkz7h2HU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/IUAowpnYJo6zk1-6w22b3jaUPuwh1xfHCm5Gkz7h2HU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/IUAowpnYJo6zk1-6w22b3jaUPuwh1xfHCm5Gkz7h2HU.png"
+          },
+          "clanLevel": 4,
+          "attacks": 16,
+          "stars": 19,
+          "destructionPercentage": 30.7,
+          "expEarned": 46
+        },
+        "opponent": {
+          "tag": "#28U9YLR9R",
+          "name": "درع الجزيرة",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/HC8I1Zpt0BQ2mOupSU6Z4zFo2Sf8ayMZ-BJCilYOgEo.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/HC8I1Zpt0BQ2mOupSU6Z4zFo2Sf8ayMZ-BJCilYOgEo.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/HC8I1Zpt0BQ2mOupSU6Z4zFo2Sf8ayMZ-BJCilYOgEo.png"
+          },
+          "clanLevel": 4,
+          "stars": 84,
+          "destructionPercentage": 95.63333
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20200515T143042.000Z",
+        "teamSize": 30,
+        "attacksPerMember": 2,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/IUAowpnYJo6zk1-6w22b3jaUPuwh1xfHCm5Gkz7h2HU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/IUAowpnYJo6zk1-6w22b3jaUPuwh1xfHCm5Gkz7h2HU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/IUAowpnYJo6zk1-6w22b3jaUPuwh1xfHCm5Gkz7h2HU.png"
+          },
+          "clanLevel": 4,
+          "attacks": 31,
+          "stars": 61,
+          "destructionPercentage": 74.833336,
+          "expEarned": 198
+        },
+        "opponent": {
+          "tag": "#V2UJ2J20",
+          "name": "ŞOVALYE 45TR",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/umKKcqefu4znXRNYf-WsRcn01MbXVfU27UPBYdoSpNc.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/umKKcqefu4znXRNYf-WsRcn01MbXVfU27UPBYdoSpNc.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/umKKcqefu4znXRNYf-WsRcn01MbXVfU27UPBYdoSpNc.png"
+          },
+          "clanLevel": 7,
+          "stars": 53,
+          "destructionPercentage": 68.53333
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20200509T104627.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 1,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/IUAowpnYJo6zk1-6w22b3jaUPuwh1xfHCm5Gkz7h2HU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/IUAowpnYJo6zk1-6w22b3jaUPuwh1xfHCm5Gkz7h2HU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/IUAowpnYJo6zk1-6w22b3jaUPuwh1xfHCm5Gkz7h2HU.png"
+          },
+          "clanLevel": 4,
+          "attacks": 93,
+          "stars": 261,
+          "destructionPercentage": 500.4,
+          "expEarned": 0
+        },
+        "opponent": {
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+          },
+          "clanLevel": 0,
+          "stars": 92,
+          "destructionPercentage": 0
+        }
+      },
+      {
+        "result": "win",
+        "endTime": "20200409T124547.000Z",
+        "teamSize": 15,
+        "attacksPerMember": 1,
+        "clan": {
+          "tag": "#29U8UJCU0",
+          "name": "Xanthe BB",
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/IUAowpnYJo6zk1-6w22b3jaUPuwh1xfHCm5Gkz7h2HU.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/IUAowpnYJo6zk1-6w22b3jaUPuwh1xfHCm5Gkz7h2HU.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/IUAowpnYJo6zk1-6w22b3jaUPuwh1xfHCm5Gkz7h2HU.png"
+          },
+          "clanLevel": 4,
+          "attacks": 100,
+          "stars": 342,
+          "destructionPercentage": 632.13336,
+          "expEarned": 0
+        },
+        "opponent": {
+          "badgeUrls": {
+            "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+            "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+          },
+          "clanLevel": 0,
+          "stars": 47,
+          "destructionPercentage": 0
+        }
+      }
+    ],
+    "paging": {
+      "cursors": {}
+    }
+  }

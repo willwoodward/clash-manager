@@ -26,7 +26,8 @@
       return {
         listItems: [
           {id: 0, name: 'Home'},
-          {id: 1, name: 'Members'}
+          {id: 1, name: 'Members'},
+          {id: 2, name: 'Clan Wars'}
         ],
         navbarOpen: true
       }
