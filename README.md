@@ -11,10 +11,11 @@
 - NodeJS for any back-end processes
 
 # To-do List:
-- Add Tailwind to my Vue project, may need to have created with Vite
+- Add functions for updating clan information too
+- Finish sidebar styling
+- Add all page links
 
 ### HTML:
-- Add a sidebar
 
 ### index.js
 - Tidy up so Jacob can read it

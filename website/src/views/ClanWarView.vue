@@ -13,7 +13,7 @@
             <infoCard class="col-span-2">
                 <div class="grid grid-cols-3">
                     <img :src="ourBadge">
-                    <p class="text-zinc-200 text-center text-4xl row-span-2" id="vs">vs</p>
+                    <p class="text-zinc-200 text-center text-4xl row-span-2" id="vs">{{ warSize }} vs {{ warSize }}</p>
                     <img :src="opponentBadge">
                     <div>
                         <p v-for="data in ourStats" :key="data.id" class="text-center">{{ data.info }}</p>
@@ -105,6 +105,7 @@
                 ourStats: ourStats,
                 enemyStats: enemyStats,
                 maxAttacks: currentTotalAttacks,
+                warSize: currentWar.teamSize,
                 chartData: {
                     type: 'line',
                     labels: xAxis,
