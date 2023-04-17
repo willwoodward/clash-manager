@@ -200,7 +200,6 @@ async function appendRaidAttacksData() {
     // Load current JSON data
     const csvFilePath = './data/raidAttacks.csv';
     const currentJSON = await csvToJSON().fromFile(csvFilePath);
-    // console.log(currentJSON);
 
     // Load the current week's JSON
     const capitalAttacks = await listClanCapitalAttacks();
@@ -311,8 +310,149 @@ async function updateWars (tag = '#29U8UJCUO') {
     });
 }
 
-async function test3() {
+async function updateClanWarLog(tag = '#29U8UJCUO') {
+    // Load current JSON data
+    const csvFilePath = './data/clanWarAttackHistory.csv';
+    const currentJSON = await csvToJSON().fromFile(csvFilePath);
+
+    // Load the current week's JSON
+    const newTag = tag.slice(1);
+    const res = await fetch(url+`clans/%23${newTag}/currentwar`, {
+        method: 'GET',
+        headers: { 'Authorization': 'Bearer '+ token}
+    });
+    const resJSON = await res.json();
+
+    const recentJSON = resJSON.clan.members;
+    let date = resJSON.endTime;
+
+    // Check that the last date in the file isn't the same
+    fs.readFile('data/clanWarHistory.json', 'utf8', (e, data) => {
+        if (e) {
+            console.error(e);
+        }
+        const cJSON = JSON.parse(data);
+
+        if (cJSON.length === 0) {
+            cJSON.push(resJSON);
+            fs.writeFile('data/clanWarHistory.json', JSON.stringify(cJSON, null, 2), function (err) {
+                if (err) throw err;
+            });
+        } else if (cJSON.length === 1) {
+            if (cJSON[0].endTime !== date) {
+                cJSON.push(resJSON);
+                fs.writeFile('data/clanWarHistory.json', JSON.stringify(cJSON, null, 2), function (err) {
+                    if (err) throw err;
+                });
+            }
+        } else if (cJSON[-1].endTime !== date) {
+            cJSON.push(resJSON);
+            fs.writeFile('data/clanWarHistory.json', JSON.stringify(cJSON, null, 2), function (err) {
+                if (err) throw err;
+            });
+        }
+    })
+
+    // Format the date
+    const day = date.slice(6, 8);
+    const month = date.slice(4, 6);
+    const year = date.slice(0, 4);
+    const date1 = `${day}/${month}/${year}`;
+    
+    let ranAlready = true;
+    // Add a new date1 column to currentJSON
+    if (currentJSON[0][`${date1} Attacks`] === undefined) {
+        ranAlready = false;
+        for (const row of currentJSON) {
+            row[`${date1} Attacks`] = '';
+        }
+    }
+    if (currentJSON[0][`${date1} Stars`] === undefined) {
+        ranAlready = false;
+        for (const row of currentJSON) {
+            row[`${date1} Stars`] = '';
+        }
+    }
+
+    // Go through recentJSON, and add attacks and stars to each array
+    let newJSON = [];
+    for (const raidStat of recentJSON) {
+        // Check that there are no attacks done
+        if (raidStat.attacks === undefined) {
+            raidStat.attacks = [{stars: 0}];
+        }
+        // Check if there is one attack done
+        if (raidStat.attacks.length === 1) {
+            raidStat.attacks.push({stars: 0});
+        }
+
+        // Search the current clan members for the tag
+        let match = currentJSON.filter((e) => {
+            return e.Tag === raidStat.tag;
+        });
+
+        let newUserData;
+
+        // If there are no clan members with this tag, add a row
+        if (match.length === 0) {
+            newUserData = {...currentJSON[0]};
+            for (key in newUserData) {
+                newUserData[key] = '';
+            }
+
+            newUserData.Username = raidStat.name;
+            newUserData.Tag = raidStat.tag;
+
+            newUserData.Attacks = Number(raidStat.attacks.length);
+            newUserData.Stars = Number(raidStat.attacks[0].stars + raidStat.attacks[1].stars);
+
+            newUserData[`${date1} Attacks`] = Number(raidStat.attacks.length);
+            newUserData[`${date1} Stars`] = Number(raidStat.attacks[0].stars + raidStat.attacks[1].stars);
+        }
+
+        // If the clan member is already in the spreadsheet
+        else {
+            newUserData = {...match[0]};
+
+            if (ranAlready) {
+                // Update1 information
+                const prevAttacks = Number(newUserData[`${date1} Attacks`]);
+                const prevStars = Number(newUserData[`${date1} Stars`]);
+
+                // Should fix so it calculates the lifetime total for robustness
+                newUserData.Attacks = Number(newUserData.Attacks) - prevAttacks + Number(raidStat.attacks.length);
+                newUserData.Stars = Number(newUserData.Stars) - prevStars + Number(raidStat.attacks[0].stars + raidStat.attacks[1].stars);
+                newUserData[`${date1} Attacks`] = Number(raidStat.attacks.length);
+                newUserData[`${date1} Stars`] = Number(raidStat.attacks[0].stars + raidStat.attacks[1].stars);
+            } else {
+                newUserData.Attacks = Number(newUserData.Attacks) + Number(raidStat.attacks.length);
+                newUserData.Stars = Number(newUserData.Stars) + Number(raidStat.attacks[0].stars + raidStat.attacks[1].stars);
+                newUserData[`${date1} Attacks`] = Number(raidStat.attacks.length);
+                newUserData[`${date1} Stars`] = Number(raidStat.attacks[0].stars + raidStat.attacks[1].stars);
+            }
+        }
+
+        newJSON.push(newUserData);
+    }
+
+    // Add the newJSON to the spreadsheet
+    let newData = await jsonToCSV(newJSON);
+
+    fs.writeFile('data/clanWarAttackHistory.csv', newData, function (err) {
+        if (err) throw err;
+    });
+
+    fs.writeFile('data/clanWarAttackHistory.json', JSON.stringify(newJSON, null, 2), function (err) {
+        if (err) throw err;
+    });
+}
+
+async function reload() {
     await appendRaidAttacksData();
     await updateWars();
 }
-test3();
+
+async function appendWarHistory() {
+    await updateClanWarLog();
+}
+appendWarHistory();
