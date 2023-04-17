@@ -2,6 +2,7 @@
     import sideNavbar from '@/components/sideNavbar.vue';
     import infoCard from '@/components/infoCard.vue';
     import lineGraph from '@/components/lineGraph.vue';
+    import jsonTable from '@/components/jsonTable.vue';
 </script>
 
 <template>
@@ -26,6 +27,9 @@
             <div></div>
             <infoCard heading="Clan War Attacks" caption="This shows the clan war attack percentage over time" class="col-span-4">
                 <lineGraph :data="chartData" :options="chartOptions"/>
+            </infoCard>
+            <infoCard heading="Clan War History" caption="This shows clan member's attacks in each war" class="col-span-4">
+                <jsonTable :json="clanWarHistory" />
             </infoCard>
         </div>
   </div>
@@ -128,7 +132,8 @@
                         legend: false
                     },
                     responsive: true,
-                }
+                },
+                clanWarHistory: currentWar.clan.members.sort((a,b) => a.mapPosition - b.mapPosition)
             }
         }
     }

@@ -288,7 +288,31 @@ async function appendRaidAttacksData() {
     });
 }
 
+async function updateWars (tag = '#29U8UJCUO') {
+    const newTag = tag.slice(1);
+    const res = await fetch(url+`clans/%23${newTag}/warlog`, {
+        method: 'GET',
+        headers: { 'Authorization': 'Bearer '+ token}
+    });
+    const resJSON = await res.json();
+
+    fs.writeFile('data/clanWars.json', JSON.stringify(resJSON), function (err) {
+        if (err) throw err;
+    });
+
+    const resp = await fetch(url+`clans/%23${newTag}/currentwar`, {
+        method: 'GET',
+        headers: { 'Authorization': 'Bearer '+ token}
+    });
+    const respJSON = await resp.json();
+
+    fs.writeFile('data/currentWar.json', JSON.stringify(respJSON), function (err) {
+        if (err) throw err;
+    });
+}
+
 async function test3() {
     await appendRaidAttacksData();
+    await updateWars();
 }
 test3();
