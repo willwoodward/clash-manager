@@ -377,13 +377,16 @@ async function updateClanWarLog(tag = '#29U8UJCUO') {
     // Go through recentJSON, and add attacks and stars to each array
     let newJSON = [];
     for (const raidStat of recentJSON) {
+        let cwAttacks = 2;
         // Check that there are no attacks done
         if (raidStat.attacks === undefined) {
-            raidStat.attacks = [{stars: 0}];
+            raidStat.attacks = [{stars: 0}, {stars: 0}];
+            cwAttacks = 0;
         }
         // Check if there is one attack done
-        if (raidStat.attacks.length === 1) {
+        else if (raidStat.attacks.length === 1) {
             raidStat.attacks.push({stars: 0});
+            cwAttacks = 1;
         }
 
         // Search the current clan members for the tag
@@ -403,10 +406,10 @@ async function updateClanWarLog(tag = '#29U8UJCUO') {
             newUserData.Username = raidStat.name;
             newUserData.Tag = raidStat.tag;
 
-            newUserData.Attacks = Number(raidStat.attacks.length);
+            newUserData.Attacks = Number(cwAttacks);
             newUserData.Stars = Number(raidStat.attacks[0].stars + raidStat.attacks[1].stars);
 
-            newUserData[`${date1} Attacks`] = Number(raidStat.attacks.length);
+            newUserData[`${date1} Attacks`] = Number(cwAttacks);
             newUserData[`${date1} Stars`] = Number(raidStat.attacks[0].stars + raidStat.attacks[1].stars);
         }
 
@@ -420,14 +423,14 @@ async function updateClanWarLog(tag = '#29U8UJCUO') {
                 const prevStars = Number(newUserData[`${date1} Stars`]);
 
                 // Should fix so it calculates the lifetime total for robustness
-                newUserData.Attacks = Number(newUserData.Attacks) - prevAttacks + Number(raidStat.attacks.length);
+                newUserData.Attacks = Number(newUserData.Attacks) - prevAttacks + Number(cwAttacks);
                 newUserData.Stars = Number(newUserData.Stars) - prevStars + Number(raidStat.attacks[0].stars + raidStat.attacks[1].stars);
-                newUserData[`${date1} Attacks`] = Number(raidStat.attacks.length);
+                newUserData[`${date1} Attacks`] = Number(cwAttacks);
                 newUserData[`${date1} Stars`] = Number(raidStat.attacks[0].stars + raidStat.attacks[1].stars);
             } else {
-                newUserData.Attacks = Number(newUserData.Attacks) + Number(raidStat.attacks.length);
+                newUserData.Attacks = Number(newUserData.Attacks) + Number(cwAttacks);
                 newUserData.Stars = Number(newUserData.Stars) + Number(raidStat.attacks[0].stars + raidStat.attacks[1].stars);
-                newUserData[`${date1} Attacks`] = Number(raidStat.attacks.length);
+                newUserData[`${date1} Attacks`] = Number(cwAttacks);
                 newUserData[`${date1} Stars`] = Number(raidStat.attacks[0].stars + raidStat.attacks[1].stars);
             }
         }

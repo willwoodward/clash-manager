@@ -38,6 +38,7 @@
 <script>
     import clanWars from '../../../data/clanWars.json';
     import currentWar from '../../../data/currentWar.json';
+    import cwHistory from '../../../data/clanWarAttackHistory.json';
 
     // Formatting our war stats
     const currentTotalAttacks = currentWar.teamSize*2
@@ -133,7 +134,7 @@
                     },
                     responsive: true,
                 },
-                clanWarHistory: currentWar.clan.members.sort((a,b) => a.mapPosition - b.mapPosition)
+                clanWarHistory: cwHistory
             }
         }
     }
