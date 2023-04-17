@@ -1,12 +1,17 @@
 <script setup>
 import { useFirestore, useCollection } from 'vuefire'
 import { collection, query, orderBy } from 'firebase/firestore'
+import { watch } from 'vue';
 
 const props = defineProps(['id'])
 
 const db = useFirestore()
 
-const users = useCollection(query(collection(db, 'raids/' + props.id + '/users'), orderBy('attacks', 'desc'), orderBy('gold', 'desc')))
+let users = useCollection(query(collection(db, 'raids/' + props.id + '/users'), orderBy('attacks', 'desc'), orderBy('gold', 'desc')))
+
+watch(() => props.id, () => {
+  users = useCollection(query(collection(db, 'raids/' + props.id + '/users'), orderBy('attacks', 'desc'), orderBy('gold', 'desc')))
+})
 </script>
 
 <template>

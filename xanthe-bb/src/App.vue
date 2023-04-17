@@ -6,13 +6,13 @@ import Table from './components/Table.vue'
 
 const db = useFirestore()
 
-let currentRaid = ref('')
+const currentRaid = ref('')
 
 const raids = useCollection(query(collection(db, 'raids'), orderBy('date', 'desc')))
 
 watch(raids, (newRaids) => {
   if (newRaids.length > 0 && currentRaid.value == '') {
-    currentRaid = newRaids[0].id
+    currentRaid.value = newRaids[0].id
   }
 })
 </script>
