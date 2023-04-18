@@ -458,4 +458,4 @@ async function reload() {
 async function appendWarHistory() {
     await updateClanWarLog();
 }
-appendWarHistory();
+reload();
