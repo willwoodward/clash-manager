@@ -459,3 +459,4 @@ async function appendWarHistory() {
     await updateClanWarLog();
 }
 reload();
+appendWarHistory();
